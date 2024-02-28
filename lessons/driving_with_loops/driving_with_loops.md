@@ -136,4 +136,10 @@ ev3.speaker.say(“Way to go!  Now work on Part 2”)
 
 ```
 
-
+<p align="center">
+<IMG ALIGN="CENTER" SRC="https://fssfll.github.io/fssfll/images/finish.jpg">
+<BR>
+<B>Congratulations, you have completed the lesson!</B><BR>
+<A HREF="https://fssfll.github.io/fssfll/lessons/beginner/">Return To Beginner Lessons</A>
+<BR>
+ </P>
