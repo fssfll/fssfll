@@ -16,6 +16,7 @@ subtitle: Changing Speed By Using the Drivebase Settings
 robot.settings(straight_speed=200, straight_acceleration=100, turn_rate=100, turn_acceleration=100)
 ```
  * The line above configures the speed and acceleration used by **straight()** and **turn()**
+ * Don’t worry about the straight_acceleration and the turn_acceleration entries for now, you will not need use these while you’re still a beginner, but might do more with them as you gain experience
  * **straight_speed(speed in mm/s)** - Speed of the robot during **straight()**
  * **turn_rate(rotational speed in deg/s)** - Turn rate of the robot during **turn()**
  * This is described in additional detail here [https://pybricks.com/ev3-micropython/robotics.html](https://pybricks.com/ev3-micropython/robotics.html)
@@ -131,3 +132,11 @@ print("Start driving in a square shape")
 print("Program complete!")
 
 ```
+
+<p align="center">
+<IMG ALIGN="CENTER" SRC="https://fssfll.github.io/fssfll/images/finish.jpg">
+<BR>
+<B>Congratulations, you have completed the lesson!</B><BR>
+<A HREF="https://fssfll.github.io/fssfll/lessons/beginner.md">Return To Beginner Lessons</A>
+<BR>
+</P>
