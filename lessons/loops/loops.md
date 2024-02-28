@@ -157,6 +157,13 @@ print("Start driving in a square shape")
 # This is not part of the block of code to be repeated.
 # This should not be indented.
 
+<p align="center">
+<IMG ALIGN="CENTER" SRC="https://fssfll.github.io/fssfll/images/finish.jpg">
+<BR>
+<B>Congratulations, you have completed the lesson!</B><BR>
+<A HREF="https://fssfll.github.io/fssfll/lessons/beginner/">Return To Beginner Lessons</A>
+<BR>
+ </P>
 
 ```
 
