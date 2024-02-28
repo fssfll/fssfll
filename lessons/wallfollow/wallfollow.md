@@ -56,3 +56,11 @@ The FLL competition table walls are not flat or smoothe.  They often have bumps,
 
 Also, for best results, the wall follower parts contacting the wall should be slightly in front of the robot.
 - Why do you think this is?
+
+<p align="center">
+<IMG ALIGN="CENTER" SRC="https://fssfll.github.io/fssfll/images/finish.jpg">
+<BR>
+<B>Congratulations, you have completed the lesson!</B><BR>
+<A HREF="https://fssfll.github.io/fssfll/lessons/beginner/">Return To Beginner Lessons</A>
+<BR>
+ </P>
