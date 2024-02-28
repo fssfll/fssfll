@@ -43,3 +43,12 @@ Copy or recreate the same program using the link below. This link is the same 3 
 If your python program uses something like robot.straight(500) to drive the robot 50 cm into the mission model and square up you may run into a problem where the robot stops once it hits the mission model and does not continue to execute your program.
 - Why do you think this is? (hint: wheel stall)
 - What is a way to solve it? (hint: drive using time not distance)
+
+
+<p align="center">
+<IMG ALIGN="CENTER" SRC="https://fssfll.github.io/fssfll/images/finish.jpg">
+<BR>
+<B>Congratulations, you have completed the lesson!</B><BR>
+<A HREF="https://fssfll.github.io/fssfll/lessons/beginner/">Return To Beginner Lessons</A>
+<BR>
+ </P>
