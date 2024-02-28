@@ -8,7 +8,7 @@ Get ready for an exciting journey into the world of Python programming for your 
 For this level, we'll be using "Pybricks Micropython" to program a virtual "EV3 Robot" using a "Simulator".  Let's review what each of these terms means.
 
 # Pybricks Micropython
-MicroPython is like a language that helps you talk to your real or virtual LEGO EV3 robot. You can use it to give your robot cool instructions, like telling it to move around or do tricks. It's like teaching your robot a special code so that it understands what you want it to do. So, with MicroPython, you get to be the boss and make your robot do all kinds of fun stuff!
+MicroPython is like a language that helps you talk to your real or virtual LEGO EV3 robot. You can use it to give your robot cool instructions, like telling it to move around or do tricks. It’s like using a special language to talk to your robot so you can tell it what you want it to do.  So, with MicroPython, you get to be the boss and make your robot do all kinds of fun stuff!
 
 More technically, the Micropython language is a software implementation of the Python programming language that is designed to run on microcontrollers and small embedded systems. It brings the ease and simplicity of Python to hardware platforms with limited resources, making it well-suited for devices like microcontrollers, single-board computers, and other small computing devices.  Pybricks is a programming library specifically designed for use with LEGO MINDSTORMS Education EV3, a robotics platform created by LEGO for educational purposes. Pybricks allows users to program the LEGO MINDSTORMS EV3 brick, motors, sensors, and other components using the Python programming language.
 
@@ -25,7 +25,7 @@ __Example Virtual EV3 Robot:__
 
 
 # Simulator
-A Simulator is virtual world for your EV3 robot! It's like a special computer program that lets you test and practice your robot's moves without needing the actual physical robot.  It helps you learn and experiment with programming—creating the special instructions that tell your robot what to do.  It's like having a practice field for your robot where you can make mistakes, learn, and perfect your coding skills.
+A Simulator is virtual world for your EV3 robot! It is a special computer program that lets you test and practice your robot's moves without needing the actual physical robot.  It helps you learn and experiment with programming—creating the special instructions that tell your robot what to do.  It's like having a practice field for your robot where you can make mistakes, learn, and perfect your coding skills.
 
 __Example EV3 Virtual World Simulator__
 <p  align="center"><img src="../../images/simulator.jpg" width=200></P>
