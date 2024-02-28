@@ -115,8 +115,8 @@ robot.settings(straight_speed=200, straight_acceleration=100, turn_rate=100, tur
 print("Hello World!")
 
 # Pause the program for half a second
-print("Pausing the program for half a second")
-wait(500)
+print("Pausing the program for 2 seconds")
+wait(2000)
 
 # Continuing the program
 print("The program resumes...")
@@ -148,4 +148,10 @@ print("The program resumes...")
 
 ```
 
-
+<p align="center">
+<IMG ALIGN="CENTER" SRC="https://fssfll.github.io/fssfll/images/finish.jpg">
+<BR>
+<B>Congratulations, you have completed the lesson!</B><BR>
+<A HREF="https://fssfll.github.io/fssfll/lessons/beginner/">Return To Beginner Lessons</A>
+<BR>
+ </P>
