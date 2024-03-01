@@ -6,9 +6,9 @@ subtitle: Bolton Robotics Virtual Challenge!
 Looking for something more challenging?  Try the Bolton Robotics Challenge #1!
 
 # Rules
-Push the orange cylander off of the finish area pedastle to complete the course.  
+Push the orange cylinder off the finish area pedastle to complete the course.  
 
-To get your name in the Hall of Fame. create an amazing python program which allows the robot to complete the course autonomously.  Students must submit and demonstrate their python program.
+To get your name in the Bolton Robotics Hall of Fame create an amazing python program which allows the robot to complete the course autonomously.  Students must submit and demonstrate their python program.
 
 ___Happy coding and good luck!!!___
 
