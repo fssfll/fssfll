@@ -13,3 +13,11 @@ These instructions cover
 - Installing the MicroPython tools on your microSD card
 
 After completing the steps in the instructions above, continue to the next module which will cover the Bolton Robotics Base Code.
+
+<p align="center">
+<IMG ALIGN="CENTER" SRC="https://fssfll.github.io/fssfll/images/finish.jpg">
+<BR>
+<B>Congratulations, you have completed the lesson!</B><BR>
+<A HREF="https://fssfll.github.io/fssfll/lessons/intermediate/">Return To Intermediate Lessons</A>
+<BR>
+ </P>
