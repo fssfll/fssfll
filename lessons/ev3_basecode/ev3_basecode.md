@@ -34,17 +34,29 @@ In essence, the Bolton Robotics Base Code acts as a supportive scaffold, allowin
 # What do the files I downloaded do?
 
 __Code Structure__
-The Bolton Robotics Base Code is composed of different python files which each are responsible for a different function as shown in the graphic below:
+The Bolton Robotics Base Code is composed of different python files, each responsible for a different function as shown in the graphic below:
 <p  align="center"><img src="../../../images/bolton_robotics_code.jpg" width=600></p>
 
-__main.py__:
+__[main.py](https://github.com/fssfll/fll_basecode/blob/main/main.py)__
+<BR>
 This is the only python file used to run the code (this is the one you would select and run on the EV3).  When starting out, you should not have to modify this module. 
 
-__mission_one.py to mission_eight.py__
+__[mission_one.py](https://github.com/fssfll/fll_basecode/blob/main/mission_one.py) to [mission_eight.py](https://github.com/fssfll/fll_basecode/blob/main/mission_eight.py)__
+<BR>
 This is where you tell the robot what to do!  These 8 files are where the code to make the robot move and solve missions goes.  This is setup to allow for multiple students to work in parallel.  While one student works in mission_one.py to solve FLL mission(s) other students could be working in one or more of the other seven mission python files. 
 
-__menu.py__
+__[menu.py](https://github.com/fssfll/fll_basecode/blob/main/menu.py)__
+<BR>
 This module creates the 8 mission selector menu system.  Use the center button to change from missions 1-4 to missions 5-8.  When starting out, you should not have to modify this module.       
 
-__bolton_robotics_robot.py__
+__[bolton_robotics_robot.py](https://github.com/fssfll/fll_basecode/blob/main/bolton_robotics_robot.py)__
+<BR>
 This module creates a robot class which defines important pieces of how your robot is designed like motor connections, sensor connection, and wheel size.  The configuration defined in this file must match your robot!  If your robot wiring and configuration matches what is defined in here you don't need to change anything.  If your robot is different, we'll cover how to customize this python file in a subsequent training module.   
+
+<p align="center">
+<IMG ALIGN="CENTER" SRC="https://fssfll.github.io/fssfll/images/finish.jpg">
+<BR>
+<B>Congratulations, you have completed the lesson!</B><BR>
+<A HREF="https://fssfll.github.io/fssfll/lessons/intermediate/">Return To Intermediate Lessons</A>
+<BR>
+ </P>
