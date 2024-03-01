@@ -177,3 +177,11 @@ self.robot = DriveBase(self.left_drive_motor, self.right_drive_motor, wheel_diam
 ```
 
 You have now customized the base code to match you robot design!  Make sure to save the bolton_robotics_robot.py in Microsoft Visual Studio Code. 
+
+<p align="center">
+<IMG ALIGN="CENTER" SRC="https://fssfll.github.io/fssfll/images/finish.jpg">
+<BR>
+<B>Congratulations, you have completed the lesson!</B><BR>
+<A HREF="https://fssfll.github.io/fssfll/lessons/intermediate/">Return To Intermediate Lessons</A>
+<BR>
+ </P>
