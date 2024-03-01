@@ -23,3 +23,12 @@ ___Happy coding and good luck!!!___
 __Congratulations to the following students have completed the Challenge #1 course:__
 
 - You could be the first!
+
+
+<p align="center">
+<IMG ALIGN="CENTER" SRC="https://fssfll.github.io/fssfll/images/finish.jpg">
+<BR>
+<B>Congratulations, you have completed the lesson!</B><BR>
+<A HREF="https://fssfll.github.io/fssfll/lessons/beginner/">Return To Beginner Lessons</A>
+<BR>
+ </P>
