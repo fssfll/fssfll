@@ -19,11 +19,10 @@ You are learning the same programming language as used by professional engineers
 Alright, future robotics champs! Before we dive into these awesome learning modules, let's make sure you've got everything you need. Here's your checklist:
 
 <p  align="center"><img src="../../images/needed_stuff.jpg" width=400><BR>
-Figure From [Pybricks Documentation](https://pybricks.com/ev3-micropython/startinstall.html)
+Figure From <A HREF="https://pybricks.com/ev3-micropython/startinstall.html">Pybrics Documentation</A>
 </p>
 
 __Lego EV3 Robot:__ Make sure you've got a Lego EV3 robot ready to roll. It should have at least two medium motors and some cool wheels.
-Mini USB Programming Cable:
 
 __Mini USB cable:__   This is your robot's lifeline to the computer.  You'll use this to program your robot.  Make sure it's ready to connect your robot and unleash its coding magic.
 
@@ -38,7 +37,7 @@ This is needed to write the EV3DEV MicroPython environment from your laptop to t
 
 # Training Modules
 <TABLE>
-<TR><TD><img src="../../images/needed_stuff.jpg" width=200><BR><A HREF="../ev3_install/ev3_install">Launch Lesson 1</A> </TD><TD><B>Getting Started</B><BR>Installing all the apps.  Can skip this if you or a coach have already installed what's needed.
+<TR><TD><img src="../../images/needed_stuff.jpg" width=200><BR><A HREF="../ev3_install/ev3_install">Launch Lesson 1</A> </TD><TD><B>Getting Started</B><BR>Installing all the apps.  You can skip this if you or a coach have already installed what's needed.
 </TD>
 </TR>
   
@@ -50,7 +49,7 @@ This is needed to write the EV3DEV MicroPython environment from your laptop to t
 </TD>
 </TR>
 
-<TR><TD><img src="../../images/first_ev3.jpg" width=200><BR><A HREF="../ev3_first/ev3_first">Launch Lesson 4</A> </TD><TD><B>Create your first program</B><BR>Create your first program, download and run an the EV3 robot.
+<TR><TD><img src="../../images/first_ev3.jpg" width=200><BR><A HREF="../ev3_first/ev3_first">Launch Lesson 4</A> </TD><TD><B>Create your first program</B><BR>Create your first program, download and run a program on the EV3 robot.
 </TD>
 </TR>
 
