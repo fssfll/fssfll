@@ -4,7 +4,7 @@ subtitle: Learn how to square up on the mission model to improve robot consisten
 ---
 
 # What is the problem?
-EV3 robots (both real world and virtual) hardly ever do the same thing every time.  This is because ther are slight variations in how the robot is started, wheel pre-loading, friction and many other factors that result in the robot driving a little more left, right, further, not as far even when the same program is run.  
+EV3 robots (both real world and virtual) hardly ever do the same thing every time.  This is because there are slight variations in how the robot is started, wheel pre-loading, friction and many other factors that result in the robot driving a little more left, right, further, not as far even when the same program is run.  
 
 Anyone who has competed in FLL knows this can be __super frustrating__!  
 
