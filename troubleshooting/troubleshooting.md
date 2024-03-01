@@ -20,3 +20,11 @@ subtitle: Common Issues and How to Solve them
 **Why did the EV3 stop responding to button pushes?**
 * If the EV3 "hangs" and is no longer responsive to the buttons it must be restarted.  This can be done by pressing and holding the center button and the back button at the same time.  If the EV3 frequently hangs, the MicroSD card may need to be re-imaged.  We've seen re-imaging the MicroSD cards solve the hang problem but don't yet understand why.
 * Instructions for re-imaging the MicroSD card can be found here: [https://pybricks.com/ev3-micropython/startinstall.html](https://pybricks.com/ev3-micropython/startinstall.html)
+
+<p align="center">
+<IMG ALIGN="CENTER" SRC="https://fssfll.github.io/fssfll/images/finish.jpg">
+<BR>
+<B>Congratulations, you have completed the lesson!</B><BR>
+<A HREF="https://fssfll.github.io/fssfll/lessons/intermediate/">Return To Intermediate Lessons</A>
+<BR>
+ </P>
