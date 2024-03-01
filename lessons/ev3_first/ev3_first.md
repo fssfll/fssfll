@@ -70,4 +70,12 @@ This is because in main.py, the robot is "instantiated" and given the name "r" a
 r = bolton_robotics_robot()
 ```
 
-When we talk about instantiation, we're essentially talking about creating an object from a class.  In this case we're creating the robot "r" from the class bolton_robotics_robot.  Think of a class as a blueprint for your robot. Now, when you want to bring that robot to life and actually use it, you need to create an instance of that class, and that's where instantiation comes in.
+When we talk about instantiation, we're essentially talking about creating an object from a class.  In this case we're creating the robot "r" from the class bolton_robotics_robot. Remember a class is like a blueprint for your robot. When you want to bring that robot to life and actually use it, you need to create an instance of that class, and that's where instantiation comes in.
+
+<p align="center">
+<IMG ALIGN="CENTER" SRC="https://fssfll.github.io/fssfll/images/finish.jpg">
+<BR>
+<B>Congratulations, you have completed the lesson!</B><BR>
+<A HREF="https://fssfll.github.io/fssfll/lessons/intermediate/">Return To Intermediate Lessons</A>
+<BR>
+ </P>
