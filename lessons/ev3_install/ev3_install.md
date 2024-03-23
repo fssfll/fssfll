@@ -2,6 +2,9 @@
 title: Getting Started With A Lego EV3
 subtitle: Installing the apps 
 ---
+# You may not need to do this!
+The setup steps to needed to get your robot ready to go may have already taken care of by the the Bolton Robotics mentors. If you are using your own laptop or work on a computer that does not have VS Code installed, you will need to install it.  Also, check to see if a microSD card is already installed in you robot.  If your robot does not have a MicroSD card, find a mentor and ask for help.
+
 # Official Lego Eductation Instructions
 Lego Educatuion and Pybricks has great step-by-step documentation here:
 
