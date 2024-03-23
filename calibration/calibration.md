@@ -11,8 +11,10 @@ The threshold is calculated based on a value between the black and white values 
 In order for the threshold to be calculated correctly, the white and black values must be determined.  These values will change based on the lighting in the room and game mat so it is recommended to run a calibration routine ahead of each competitive match.
 
 The python program below contains two functions.
-- __do_calibration(port):__ Prompts the user to place the robot's color sensor above a black line and then a white line and records the refelected light intensity.  The values are then saved to a file for later use.  This function takes the color sensor port (1 - 4) the user whiches to calibrate as an input.
+- __do_calibration(port):__ Prompts the user to place the robot's color sensor above a black line and then a white line and records the refelected light intensity.  The values are then saved to a file for later use.  This function takes the color sensor port (1 - 4) the user wishes to calibrate as an input.
 - __read_calibration(port):__ Retrieves the calibration values for the selected port stored by the do_calibration(port) routine and returns them to the user as [black_value,white_value]
+
+It is recommended that the do_calibration method be assigned to mission_eight.py button 8.  Being in the second tier this button takes a second longer to access, but that is not a problem since the calibration is done before the match clock starts.  And this leaves the easier access lower tier button available for mission programs.  And coaches and team members from all the FSS teams will have a common approach.
 
 The program also contains example function calls.  Execution of the program will perform the do_calibration(port) and read_calibration(port) routines.
 
