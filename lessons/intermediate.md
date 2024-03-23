@@ -16,7 +16,7 @@ __Sharing is Caring:__ With Python, it's super easy to share your awesome code w
 You are learning the same programming language as used by professional engineers! So, get ready to dive into the Python fun and take your EV3 robot to new heights in your FIRST Lego League journey. It's going to be a blast!
 
 # Gather what you need
-Alright, future robotics champs! Before we dive into these awesome learning modules, let's make sure you've got everything you need. Here's your checklist:
+Alright, future robotics champs! Before we dive into these awesome learning modules, let's make sure you've got everything you need. These materials are provided by the Bolton Robotics Club.  Here's your checklist:
 
 <p  align="center"><img src="../../images/needed_stuff.jpg" width=400><BR>
 Figure From <A HREF="https://pybricks.com/ev3-micropython/startinstall.html">Pybrics Documentation</A>
