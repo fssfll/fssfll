@@ -3,7 +3,18 @@ title: Advanced Training Modules
 subtitle: Methods, Gyro Navigation, and more!
 ---
 
-## Additional How-To's (students are not required to complete this training)
-- [Color Sensor Calibration](../calibration/calibration.md) : Color Sensor Calibration Routine for line following
-- [All About the Gyro Sensor](../gyro/gyro.md) : Gyro sensor description, calibration and use.
-- [Rename The EV3](../rename/rename.md) : How to rename the EV3 (this is the name displayed when connecting to the robot in Visual Studio Code)
+## Additional Advanced Training 
+While students are not required to complete these training modules, they provide additional background on how the EV3 works and advanced techniques which may help to more reliably solve missions.
+
+<TABLE>
+<TR><TD><img src="../images/color_sensor.jpg" width=200><BR><A HREF="../calibration/calibration">Color Sensor Calibration</A> </TD><TD><B>Calibrating the color sensor is important before attempting to line follow.  Learn how to calibrate the color sensor with python.</B>
+</TD>
+</TR>
+<TR><TD><img src="../gyro/ev3_gyro.png" width=200><BR><A HREF="../gyro/gyro">Using the Gyro</A> </TD><TD><B>A gyro can be useful to help the robot drive in a straight line or turn with greater precision.  Learn how to initialize and use the gyro.</B>
+</TD>
+</TR>
+</TR>
+<TR><TD><img src="../images/robot_name.jpg" width=200><BR><A HREF="../rename/rename">Rename Your EV3</A> </TD><TD><B>Learn how to give your EV3 a new name</B>
+</TD>
+</TR>
+</TABLE>
