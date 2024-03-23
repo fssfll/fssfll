@@ -12,7 +12,7 @@ Additionally, the class may house methods that instruct the robot on how to perf
 
 # What do I need to know about the bolton_robotics_robot class?
 
-An EV3 Robot has motor control ports A-D and sensor ports 1-4.  It is up to the robot designer to decide how to use those ports.  The bolton_robotics_robot class assumes a specific configuration of the robot which is described in the comments at the top of the file.  Consider this the 'default' configuration which must be altered as needed to match your robot.
+An EV3 Robot has motor control ports A-D and sensor ports 1-4.  It is up to the robot designer <B>THAT'S YOU!</B> to decide how to use those ports.  The bolton_robotics_robot class assumes a specific configuration of the robot which is described in the comments at the top of the file.  Consider this the 'default' configuration which must be altered as needed to match your robot.
 
 ``` python
 ##########################################################
@@ -100,7 +100,7 @@ The motor wiring connections defined in the bolton_robotics_robot.py are shown i
 ```
 
 Let's go ahead and change your bolton_robotics_robot.py module to match how your robot is wired.
-You can easily do this by simply deleting or commenting out an unused connection.  If you have a different mapping of motors to ports, you can likely make a simply change.  For example you could change ```python self.left_attachment_motor = Motor(Port.A)``` to be ```python self.right_attachment_motor = Motor(Port.A).```
+You can easily do this by commenting out an unused connection.  To comment out a block of code in visual studio Code use the <SHIFT><ALT><A> key combination.  If you have a different mapping of motors to ports, you can likely make a simply change.  For example you could change ```python self.left_attachment_motor = Motor(Port.A)``` to be ```python self.right_attachment_motor = Motor(Port.A).```
 
 __Sensor Wiring Connections__
 The EV3 Robot has ports 1-4 for connecting to input sensors like the push button, the ultrasonic sensor, the gyro, and the color sensor.  The sensor wiring connections defined in the bolton_robotics_robot.py are shown in the code below: 
