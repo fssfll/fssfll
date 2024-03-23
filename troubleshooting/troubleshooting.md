@@ -17,6 +17,8 @@ subtitle: Common Issues and How to Solve them
 * Wifi USB adapters can eliminate the need to plug a cable onto the EV3 to download code and greatly speed up design iteration.  The CanaKit USB Wifi Adapter works although it is not officially listed.  Not all USB Wifi adapaters will work!  When connected with Wifi and using the "run and debug" mode, you will see print messages in the Visual Studio Code window.  This can be very hepful to get real-time feedback about what the code is doing as the robot is running on the table. [Supported list of USB wifi adapters](https://www.ev3dev.org/docs/networking/)  After plugging the wifi adapter into the EV3 it must be enabled.  Instructions can be found [here](../howto/index.md). This is the CanaKit USB Wifi Adapater which has been seen to work:   
 <p  align="center"><img src="https://fssfll.github.io/fssfll/troubleshooting/canakit_usb_wifi.JPG"> </p>
 
+For this to work, you need to know the wifi password for the network!  This may not work on a school wifi network.  
+
 **Why did the EV3 stop responding to button pushes?**
 * If the EV3 "hangs" and is no longer responsive to the buttons it must be restarted.  This can be done by pressing and holding the center button and the back button at the same time.  If the EV3 frequently hangs, the MicroSD card may need to be re-imaged.  We've seen re-imaging the MicroSD cards solve the hang problem but don't yet understand why.
 * Instructions for re-imaging the MicroSD card can be found here: [https://pybricks.com/ev3-micropython/startinstall.html](https://pybricks.com/ev3-micropython/startinstall.html)
