@@ -37,7 +37,7 @@ This is needed to write the EV3DEV MicroPython environment from your laptop to t
 
 # Training Modules
 <TABLE>
-<TR><TD><img src="../../images/needed_stuff.jpg" width=200><BR><A HREF="../ev3_install/ev3_install">Launch Lesson 1</A> </TD><TD><B>Getting Started</B><BR>Installing all the apps.  You can skip this if you or a coach have already installed what's needed.
+<TR><TD><img src="../../images/needed_stuff.jpg" width=200><BR><A HREF="../ev3_install/ev3_install">Launch Lesson 1</A> </TD><TD><B>Getting Started</B><BR>Installing all the apps.  You can skip this if you or a coach have already installed what's needed.  This step is usually handled by the Bolton Robotics Club Mentors.
 </TD>
 </TR>
   
