@@ -10,7 +10,7 @@ The inconsistency can be __super frustrating__!
 
 Fortunately, there are tricks to improve your chances of success even when the robot goes a little off course.  There is a a cool trick called "wall following." It's like the robot's way of hugging the wall and gliding alongside it. This move is a good strategy to keep the robot super accurate.
 
-Typically, a good wall following design will be an attachment that holds the robot away from the wall by some amount.  The pieces in contact with the wall should be smoothe and either angled or rounded at the front in case the wall is not perfectly flat.
+Typically, a good wall following design will be an attachment that holds the robot away from the wall by some amount.  The pieces in contact with the wall should be smooth and either angled or rounded at the front in case the wall is not perfectly flat.
 
 An important part of wall following is to make sure the robot is always in contact with the wall.  This is typically accomplished by turning slightly into the wall.  For example, if the wall is on the left, have the robot turn slightly left to maintain contact like this:
 
