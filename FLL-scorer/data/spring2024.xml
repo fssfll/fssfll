@@ -18,7 +18,7 @@
         <Heading>M01 Cider Press</Heading>
         <Question>Barrel on Post (20 points)</Question>
         <Tag>m01b</Tag>
-        <Option><Default><Label>No</Label><Value>0</Value></Default>></Option>
+        <Option><Default><Label>No</Label><Value>0</Value></Default></Option>
         <Option><Label>Yes</Label><Value>1</Value><Default/></Option>
         <Score><![CDATA[
             score += this.answers["m01b"] * 20;
@@ -64,7 +64,7 @@
     </Element>
     
     <Element>
-        <Heading>M04 Barrel Storage</Heading>
+        <Heading>M04 Barrel Storage Corral</Heading>
         <Question>Place Barrel in Corral (10 pts each).  Barrels may not be touching equipment and must be at least partly in the corral.</Question>
         <Tag>m04a</Tag>
         <Option><Default><Label>None</Label><Value>0</Value></Default></Option>
@@ -139,7 +139,7 @@
     </Element>
     
     <Element>
-        <Heading>M07 Barrels Brought To the Circle</Heading>
+        <Heading>M07 Barrels Brought To Cider Circle</Heading>
         <Question>Architectural block at least partially in the Yellow Cider Circle (5 pts each) Barrels may be touching equipment.  Barrels do not need to be touching the mat.</Question>
         <Tag>m07a</Tag>
         <Option><Default><Label>None</Label><Value>0</Value></Default></Option>
@@ -159,7 +159,7 @@
     </Element>
 
     <Element>
-        <Heading>M07 Architectural Blocks</Heading>
+        <Heading>M08 Barrels Brought To Stone Circle</Heading>
         <Question>Architectural block at least partially in the Yellow Old Stone Circle (10 pts each).  Barrels may be touching equipment.  Barrels do not need to be touching the mat.</Question>
         <Tag>m07b</Tag>
         <Option><Default><Label>None</Label><Value>0</Value></Default></Option>
