@@ -35,7 +35,7 @@ The intermediate lessons focus on how to get started using Microsoft Visual Stud
 
 ## Bolton Robotics "Around Bolton" Game
 The Bolton Robotics Around Bolton Game is like a real FLL challenge on a 1/3 size game board.  Students program their EV3 robot to solve missions and collect as many points as possible in a two minute and thirty second match.
-- [Bolton Robotics "Around Bolton" Robot Game](./spring_2022/robot_game.md) : After completing all lessons students may work on the robot game.
+- [Bolton Robotics "Around Bolton" Robot Game](./spring_2024/robot_game.md) : After completing all lessons students may work on the robot game.
 
 ## More Resources
 * [Helpful Python Commands](./howto/Python_Commands.pdf) : List of helpful commands including how to use attachment motors
