@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Scoring_Elements>
+
+    <Element>
+        <Heading>M01 Cider Press</Heading>
+        <Question>The cider press bar is rotated into a scoring position (0 pst gray, 5 pts red, 10 pts yellow, 15 pts blue)</Question>
+        <Tag>m01</Tag>
+        <Option><Label>Gray</Label><Value>0</Value><Default/></Option>
+        <Option><Label>Red</Label><Value>1</Value><Default/></Option>
+        <Option><Label>Yellow</Label><Value>2</Value></Option>
+        <Option><Label>Blue</Label><Value>3</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m01"] * 5;
+        ]]></Score>
+    </Element>
+
+    <Element>
+        <Heading>M01 Cider Press</Heading>
+        <Question>Barrel on Post (20 points)</Question>
+        <Tag>m01</Tag>
+        <Option><Label>No</Label><Value>0</Value><Default/></Option>
+        <Option><Label>Yes</Label><Value>1</Value><Default/></Option>
+        <Score><![CDATA[
+            score += this.answers["m01"] * 20;
+        ]]></Score>
+    </Element>
+
+    <Element>
+        <Heading>M02 Stacked Barrel Storage</Heading>
+        <Question>Remove stacked barrels from the dispensor (5 pts each)</Question>
+        <Tag>m02a</Tag>
+        <Option><Label>None</Label><Value>0</Value><Default/></Option>
+        <Option><Label>1</Label><Value>1</Value></Option>
+        <Option><Label>2</Label><Value>2</Value></Option>
+        <Option><Label>3</Label><Value>3</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m02a"] * 5;
+        ]]></Score>
+    </Element>
+    
+    <Element>
+        <Heading>M02 Stacked Barrel Storage</Heading>
+        <Question>Barrel on Post (20 pts per post)</Question>
+        <Tag>m02b</Tag>
+        <Option><Label>None</Label><Value>0</Value><Default/></Option>
+        <Option><Label>1</Label><Value>1</Value></Option>
+        <Option><Label>2</Label><Value>2</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m02b"] * 20;
+        ]]></Score>
+    </Element>
+
+    <Element>
+        <Heading>M03 Barrel Chute</Heading>
+        <Question>Remove Barrels from the Chute (5 pts each)</Question>
+        <Tag>m03</Tag>
+        <Option><Label>None</Label><Value>0</Value><Default/></Option>
+        <Option><Label>1</Label><Value>1</Value></Option>
+        <Option><Label>2</Label><Value>2</Value></Option>
+        <Option><Label>3</Label><Value>3</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m03"] * 5;
+        ]]></Score>
+    </Element>
+    
+    <Element>
+        <Heading>M04 Barrel Storage</Heading>
+        <Question>Place Barrel in Corral (10 pts each).  Barrels may be touching equipment and must be at least partly in the corral.</Question>
+        <Tag>m04a</Tag>
+        <Option><Label>None</Label><Value>0</Value><Default/></Option>
+        <Option><Label>1</Label><Value>1</Value></Option>
+        <Option><Label>2</Label><Value>2</Value></Option>
+        <Option><Label>3</Label><Value>3</Value></Option>
+        <Option><Label>4</Label><Value>4</Value></Option>
+        <Option><Label>5</Label><Value>5</Value></Option>
+        <Option><Label>6</Label><Value>6</Value></Option>
+        <Option><Label>7</Label><Value>7</Value></Option>
+        <Option><Label>8</Label><Value>8</Value></Option>
+        <Option><Label>9</Label><Value>9</Value></Option>
+        <Option><Label>10</Label><Value>10</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m04a"] * 10;
+        ]]></Score>
+    </Element>
+
+    <Element>
+        <Heading>M05 Truck</Heading>
+        <Question>Truck parked inside the dirt driveways (20 pts)</Question>
+        <Tag>m05a</Tag>
+        <Option><Label>No</Label><Value>0</Value><Default/></Option>
+        <Option><Label>Yes</Label><Value>1</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m05a"] * 20;
+        ]]></Score>
+    </Element>
+    
+    <Element>
+        <Heading>M05 Truck</Heading>
+        <Question>Barrels completely in the truck (10 pts each).  Barrels may be touching equipment and must be partly in the truck.</Question>
+        <Tag>m05b</Tag>
+        <Option><Label>None</Label><Value>0</Value><Default/></Option>
+        <Option><Label>1</Label><Value>1</Value></Option>
+        <Option><Label>2</Label><Value>2</Value></Option>
+        <Option><Label>3</Label><Value>3</Value></Option>
+        <Option><Label>4</Label><Value>4</Value></Option>
+        <Option><Label>5</Label><Value>5</Value></Option>
+        <Option><Label>6</Label><Value>6</Value></Option>
+        <Option><Label>7</Label><Value>7</Value></Option>
+        <Option><Label>8</Label><Value>8</Value></Option>
+        <Option><Label>9</Label><Value>9</Value></Option>
+        <Option><Label>10</Label><Value>10</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m05b"] * 10;
+        ]]></Score>
+    </Element>
+    
+    <Element>
+        <Heading>M06 Barrel Storage Shelf</Heading>
+        <Question>Collection barrels removed from the storage shelf (5 pts each)</Question>
+        <Tag>m06a</Tag>
+        <Option><Label>None</Label><Value>0</Value><Default/></Option>
+        <Option><Label>1</Label><Value>1</Value></Option>
+        <Option><Label>2</Label><Value>2</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m06a"] * 5;
+        ]]></Score>
+    </Element>
+
+    <Element>
+        <Heading>M06 Barrel Storage Shelf</Heading>
+        <Question>Barrel on Post (20 pts per post)</Question>
+        <Tag>m06b</Tag>
+        <Option><Label>None</Label><Value>0</Value><Default/></Option>
+        <Option><Label>1</Label><Value>1</Value></Option>
+        <Option><Label>2</Label><Value>2</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m06b"] * 20;
+        ]]></Score>
+    </Element>
+    
+    <Element>
+        <Heading>M07 Barrels Brought To the Circle</Heading>
+        <Question>Architectural block at least partially in the Yellow Cider Circle (5 pts each) Barrels may be touching equipment.  Barrels do not need to be touching the mat.</Question>
+        <Tag>m07a</Tag>
+        <Option><Label>None</Label><Value>0</Value><Default/></Option>
+        <Option><Label>1</Label><Value>1</Value></Option>
+        <Option><Label>2</Label><Value>2</Value></Option>
+        <Option><Label>3</Label><Value>3</Value></Option>
+        <Option><Label>4</Label><Value>4</Value></Option>
+        <Option><Label>5</Label><Value>5</Value></Option>
+        <Option><Label>6</Label><Value>6</Value></Option>
+        <Option><Label>7</Label><Value>7</Value></Option>
+        <Option><Label>8</Label><Value>8</Value></Option>
+        <Option><Label>9</Label><Value>9</Value></Option>
+        <Option><Label>10</Label><Value>10</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m07a"] * 5;
+        ]]></Score>
+    </Element>
+
+    <Element>
+        <Heading>M07 Architectural Blocks</Heading>
+        <Question>Architectural block at least partially in the Yellow Old Stone Circle (10 pts each).  Barrels may be touching equipment.  Barrels do not need to be touching the mat.</Question>
+        <Tag>m07b</Tag>
+        <Option><Label>None</Label><Value>0</Value><Default/></Option>
+        <Option><Label>1</Label><Value>1</Value></Option>
+        <Option><Label>2</Label><Value>2</Value></Option>
+        <Option><Label>3</Label><Value>3</Value></Option>
+        <Option><Label>4</Label><Value>4</Value></Option>
+        <Option><Label>5</Label><Value>5</Value></Option>
+        <Option><Label>6</Label><Value>6</Value></Option>
+        <Option><Label>7</Label><Value>7</Value></Option>
+        <Option><Label>8</Label><Value>8</Value></Option>
+        <Option><Label>9</Label><Value>9</Value></Option>
+        <Option><Label>10</Label><Value>10</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m07b"] * 10;
+        ]]></Score>
+    </Element>
+
+    <Element>
+        <Heading>M08 Methods Used BONUS #1!  To score points for this mission, the method used must be a meaningful part of the scoring solution.  For example, squaring up on a mission model or wall to line up the robot before scoring points would be meaningful but squaring up on a mission model or wall after all scoring has been completed would not be.  It is left to the discretion of the referee to determine if the spirit of this rule has been met. Students must point out to the referee when the robot uses one of the methods!</Heading>
+        <Question>Meaningful use of line following to sucessfully complete one or more missions.  (10 pts)</Question>
+        <Tag>m08a</Tag>
+        <Option><Label>No</Label><Value>0</Value><Default/></Option>
+        <Option><Label>Yes</Label><Value>1</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m08a"] * 10;
+        ]]></Score>
+    </Element>
+    
+    <Element>
+        <Heading>M08 Methods Used BONUS #2!  To score points for this mission, the method used must be a meaningful part of the scoring solution.  For example, squaring up on a mission model or wall to line up the robot before scoring points would be meaningful but squaring up on a mission model or wall after all scoring has been completed would not be.  It is left to the discretion of the referee to determine if the spirit of this rule has been met. Students must point out to the referee when the robot uses one of the methods!</Heading>
+        <Question>Meaningful use of squaring up on a wall or mission model to successfully complete one or more missions.  (10 pts)</Question>
+        <Tag>m08b</Tag>
+        <Option><Label>No</Label><Value>0</Value><Default/></Option>
+        <Option><Label>Yes</Label><Value>1</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m08b"] * 10;
+        ]]></Score>
+    </Element>
+    
+    <Element>
+        <Heading>M08 Methods Used BONUS #3!  To score points for this mission, the method used must be a meaningful part of the scoring solution.  For example, squaring up on a mission model or wall to line up the robot before scoring points would be meaningful but squaring up on a mission model or wall after all scoring has been completed would not be.  It is left to the discretion of the referee to determine if the spirit of this rule has been met. Students must point out to the referee when the robot uses one of the methods!</Heading>
+        <Question>Meaningful use of wall following to successfully complete one or more missions.  (10 pts)</Question>
+        <Tag>m08c</Tag>
+        <Option><Label>No</Label><Value>0</Value><Default/></Option>
+        <Option><Label>Yes</Label><Value>1</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m08c"] * 10;
+        ]]></Score>
+    </Element>
+</Scoring_Elements>
