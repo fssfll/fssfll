@@ -65,7 +65,7 @@
     
     <Element>
         <Heading>M04 Barrel Storage</Heading>
-        <Question>Place Barrel in Corral (10 pts each).  Barrels may be touching equipment and must be at least partly in the corral.</Question>
+        <Question>Place Barrel in Corral (10 pts each).  Barrels may not be touching equipment and must be at least partly in the corral.</Question>
         <Tag>m04a</Tag>
         <Option><Default><Label>None</Label><Value>0</Value></Default></Option>
         <Option><Label>1</Label><Value>1</Value></Option>
@@ -96,7 +96,7 @@
     
     <Element>
         <Heading>M05 Truck</Heading>
-        <Question>Barrels completely in the truck (10 pts each).  Barrels may be touching equipment and must be partly in the truck.</Question>
+        <Question>Barrels completely in the truck (10 pts each) while parked inside the dirt driveways.  Barrels may not be touching equipment and must at least be partly in the truck.</Question>
         <Tag>m05b</Tag>
         <Option><Default><Label>None</Label><Value>0</Value></Default></Option>
         <Option><Label>1</Label><Value>1</Value></Option>
