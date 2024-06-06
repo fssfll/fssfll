@@ -27,6 +27,8 @@ __Example Virtual EV3 Robot:__
 # Simulator
 A Simulator is virtual world for your EV3 robot! It is a special computer program that lets you test and practice your robot's moves without needing the actual physical robot.  It helps you learn and experiment with programming—creating the special instructions that tell your robot what to do.  It's like having a practice field for your robot where you can make mistakes, learn, and perfect your coding skills.
 
+Bolton Robotics uses a version of the simulator created and maintained in the github repository https://github.com/QuirkyCort/gears Many thanks to all the developers for providing this free simulator for all to use!  
+
 __Example EV3 Virtual World Simulator__
 <p  align="center"><img src="../../images/simulator.jpg" width=200></P>
 
