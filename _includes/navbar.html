@@ -1,0 +1,22 @@
+{% if page.url contains '/ev3/' %}
+  {% assign base_path = 'ev3/' %}
+{% elsif page.url contains '/spike/' %}
+  {% assign base_path = 'spike/' %}
+{% else %}
+  {% assign base_path = '' %}
+{% endif %}
+
+{% if base_path != '' %}
+<nav>
+  <ul>
+    <li><a href="{{ base_path }}lessons/beginner">Beginner</a></li>
+    <li><a href="{{ base_path }}lessons/intermediate">Intermediate</a></li>
+    <li><a href="{{ base_path }}lessons/advanced">Advanced</a></li>
+    <li><a href="{{ base_path }}lessons/expert">Expert</a></li>
+    <li><a href="{{ base_path }}spring_2024/robot_game">Around Bolton Game</a></li>
+    <li><a href="{{ base_path }}fll_resources/fll_resources">FLL Resources</a></li>
+    <li><a href="https://github.com/fssfll/fll_basecode">Competition Base Code</a></li>
+    <li><a href="https://pybricks.com/ev3-micropython/">Pybricks Documentation</a></li>
+  </ul>
+</nav>
+{% endif %}
