@@ -22,16 +22,17 @@ author: The Bolton Robotics Team
 # --- List of links in the navigation bar --- #
 ###############################################
 
-navbar-links:
-  Training Modules:
-    - Beginner: "lessons/beginner"
-    - Intermediate: "lessons/intermediate"
-    - Advanced: "lessons/advanced"
-    - Expert: "lessons/expert"
-  Around Bolton Game: "/spring_2024/robot_game"
-  FLL Resources: "fll_resources/fll_resources"
-  Competition Base Code: "https://github.com/fssfll/fll_basecode"
-  Pybricks Documentation: "https://pybricks.com/ev3-micropython/"
+# Now handled in _layouts/default.html
+#navbar-links:
+#  Training Modules:
+#    - Beginner: "lessons/beginner"
+#    - Intermediate: "lessons/intermediate"
+#    - Advanced: "lessons/advanced"
+#    - Expert: "lessons/expert"
+#  Around Bolton Game: "/spring_2024/robot_game"
+#  FLL Resources: "fll_resources/fll_resources"
+#  Competition Base Code: "https://github.com/fssfll/fll_basecode"
+#  Pybricks Documentation: "https://pybricks.com/ev3-micropython/"
 
 ################
 # --- Logo --- #
