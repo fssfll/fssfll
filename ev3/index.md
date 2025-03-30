@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Welcome!
 subtitle: Bolton Robotics First Lego League
 ---
