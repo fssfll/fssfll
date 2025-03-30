@@ -1,0 +1,69 @@
+body {
+    padding-top: 70px;
+    padding-bottom: 20px;
+}
+
+.navbar-form select.form-control {
+    display: inline-block;
+    width: auto;
+}
+
+.navbar-form .form-control-static {
+    display: inline-block;
+}
+
+.tooltip-inner {
+    /* http://stackoverflow.com/a/31683500 */
+    max-width: none;
+    white-space: nowrap;
+}
+
+#elements .panel {
+    /* http://stackoverflow.com/a/26854682 */
+    page-break-inside: avoid; /* For Firefox. */
+    -webkit-column-break-inside: avoid; /* For Chrome & friends. */
+    break-inside: avoid; /* For standard browsers like IE. :-) */
+}
+
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default in Bootstrap */
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    #top-navbar-collapse .navbar-left {
+        padding-right: 0px;
+    }
+
+    #top-navbar-collapse .navbar-right {
+        padding-left: 0px;
+    }
+
+    #elements {
+        -webkit-columns: 2;
+        -moz-columns: 2;
+        columns: 2;
+    }
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    #elements {
+        -webkit-columns: 3;
+        -moz-columns: 3;
+        columns: 3;
+    }
+}
+
+#elements .list-group-item {
+    /* https://bugs.webkit.org/show_bug.cgi?id=152920 */
+    /* overflow: hidden; */
+}
+
+.emphasize {
+    font-weight: bold;
+}

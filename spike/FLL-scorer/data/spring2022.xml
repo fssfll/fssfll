@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Scoring_Elements>
+
+    <Element>
+        <Heading>M01 Cider Press</Heading>
+        <Question>The cider press bar is rotated into a scoring position (10 pts yellow, 20 pts blue)</Question>
+        <Tag>m01</Tag>
+        <Option><Label>Red</Label><Value>0</Value><Default/></Option>
+        <Option><Label>Yellow</Label><Value>1</Value></Option>
+        <Option><Label>Blue</Label><Value>2</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m01"] * 10;
+        ]]></Score>
+    </Element>
+
+    <Element>
+        <Heading>M02 Lift</Heading>
+        <Question>The bar is latched into the high position (20 pts)</Question>
+        <Tag>m02a</Tag>
+        <Option><Label>No</Label><Value>0</Value><Default/></Option>
+        <Option><Label>Yes</Label><Value>1</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m02a"] * 20;
+        ]]></Score>
+    </Element>
+    
+    <Element>
+        <Heading>M02 Lift</Heading>
+        <Question>Trophy hanging from the lift (20 pts each)</Question>
+        <Tag>m02b</Tag>
+        <Option><Label>0</Label><Value>0</Value><Default/></Option>
+        <Option><Label>1</Label><Value>1</Value></Option>
+        <Option><Label>2</Label><Value>2</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m02b"] * 20;
+        ]]></Score>
+    </Element>
+
+    <Element>
+        <Heading>M03 Lime Kiln Chute</Heading>
+        <Question>Regolith emptied from the chute (10 pts)</Question>
+        <Tag>m03</Tag>
+        <Option><Label>No</Label><Value>0</Value><Default/></Option>
+        <Option><Label>Yes</Label><Value>1</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m03"] * 10;
+        ]]></Score>
+    </Element>
+    
+    <Element>
+        <Heading>M04 Corral</Heading>
+        <Question>Rain barrel within 10 mm of the corral (15 pts)</Question>
+        <Tag>m04a</Tag>
+        <Option><Label>No</Label><Value>0</Value><Default/></Option>
+        <Option><Label>Yes</Label><Value>1</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m04a"] * 15;
+        ]]></Score>
+    </Element>
+
+    <Element>
+        <Heading>M04 Corral</Heading>
+        <Question>Each hay bale at least partially in the corral and not touching the mat (5 pts each)</Question>
+        <Tag>m04b</Tag>
+        <Option><Label>0</Label><Value>0</Value><Default/></Option>
+        <Option><Label>1</Label><Value>1</Value></Option>
+        <Option><Label>2</Label><Value>2</Value></Option>
+        <Option><Label>3</Label><Value>3</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m04b"] * 5;
+        ]]></Score>
+    </Element>
+
+    <Element>
+        <Heading>M04 Corral</Heading>
+        <Question>Pony at least partially in the corral and not touching the mat (20 pts)</Question>
+        <Tag>m04c</Tag>
+        <Option><Label>No</Label><Value>0</Value><Default/></Option>
+        <Option><Label>Yes</Label><Value>1</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m04c"] * 20;
+        ]]></Score>
+    </Element>
+
+    <Element>
+        <Heading>M05 Truck</Heading>
+        <Question>Truck parked inside the dirt driveways (20 pts)</Question>
+        <Tag>m05a</Tag>
+        <Option><Label>No</Label><Value>0</Value><Default/></Option>
+        <Option><Label>Yes</Label><Value>1</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m05a"] * 20;
+        ]]></Score>
+    </Element>
+    
+    <Element>
+        <Heading>M05 Truck</Heading>
+        <Question>Rain Barrels completely in the truck (10 pts each)</Question>
+        <Tag>m05b</Tag>
+        <Option><Label>0</Label><Value>0</Value><Default/></Option>
+        <Option><Label>1</Label><Value>1</Value></Option>
+        <Option><Label>2</Label><Value>2</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m05b"] * 10;
+        ]]></Score>
+    </Element>
+    
+    <Element>
+        <Heading>M05 Truck</Heading>
+        <Question>Regolith completely in the truck (10 pts each)</Question>
+        <Tag>m05c</Tag>
+        <Option><Label>0</Label><Value>0</Value><Default/></Option>
+        <Option><Label>1</Label><Value>1</Value></Option>
+        <Option><Label>2</Label><Value>2</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m05c"] * 10;
+        ]]></Score>
+    </Element>
+    
+    <Element>
+        <Heading>M06 Rain Collection Storage Tower</Heading>
+        <Question>Rain collection barrels removed from the storage tower (20 pts)</Question>
+        <Tag>m06a</Tag>
+        <Option><Label>No</Label><Value>0</Value><Default/></Option>
+        <Option><Label>Yes</Label><Value>1</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m06a"] * 20;
+        ]]></Score>
+    </Element>
+
+    <Element>
+        <Heading>M06 Rain Collection Storage Tower</Heading>
+        <Question>Trophy hanging from the Rain Collection Storage Tower (20 pts each)</Question>
+        <Tag>m06b</Tag>
+        <Option><Label>0</Label><Value>0</Value><Default/></Option>
+        <Option><Label>1</Label><Value>1</Value></Option>
+        <Option><Label>2</Label><Value>2</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m06b"] * 20;
+        ]]></Score>
+    </Element>
+    
+    <Element>
+        <Heading>M07 Architectural Blocks</Heading>
+        <Question>Architectural block at least partially in the Cider Circle (5 pts each)</Question>
+        <Tag>m07a</Tag>
+        <Option><Label>0</Label><Value>0</Value><Default/></Option>
+        <Option><Label>1</Label><Value>1</Value></Option>
+        <Option><Label>2</Label><Value>2</Value></Option>
+        <Option><Label>3</Label><Value>3</Value></Option>
+        <Option><Label>4</Label><Value>4</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m07a"] * 5;
+        ]]></Score>
+    </Element>
+
+    <Element>
+        <Heading>M07 Architectural Blocks</Heading>
+        <Question>Architectural block at least partially in the Old Stone Circle (10 pts each)</Question>
+        <Tag>m07b</Tag>
+        <Option><Label>0</Label><Value>0</Value><Default/></Option>
+        <Option><Label>1</Label><Value>1</Value></Option>
+        <Option><Label>2</Label><Value>2</Value></Option>
+        <Option><Label>3</Label><Value>3</Value></Option>
+        <Option><Label>4</Label><Value>4</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m07b"] * 10;
+        ]]></Score>
+    </Element>
+
+    <Element>
+        <Heading>M08 Methods Used.  To score points for this mission, the method used must be a meaningful part of the scoring solution.  For example, squaring up on a mission model or wall to line up the robot before scoring points would be meaningful but squaring up on a mission model or wall after all scoring has been completed would not be.  It is left to the discretion of the referee to determine if the spirit of this rule has been met. Students must point out to the referee when the robot uses one of the methods!</Heading>
+        <Question>Meaningful use of line following to sucessfully complete one or more missions.  (10 pts)</Question>
+        <Tag>m08a</Tag>
+        <Option><Label>No</Label><Value>0</Value><Default/></Option>
+        <Option><Label>Yes</Label><Value>1</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m08a"] * 10;
+        ]]></Score>
+    </Element>
+    
+    <Element>
+        <Heading>M08 Methods Used.  To score points for this mission, the method used must be a meaningful part of the scoring solution.  For example, squaring up on a mission model or wall to line up the robot before scoring points would be meaningful but squaring up on a mission model or wall after all scoring has been completed would not be.  It is left to the discretion of the referee to determine if the spirit of this rule has been met. Students must point out to the referee when the robot uses one of the methods!</Heading>
+        <Question>Meaningful use of squaring up on a wall or mission model to successfully complete one or more missions.  (10 pts)</Question>
+        <Tag>m08b</Tag>
+        <Option><Label>No</Label><Value>0</Value><Default/></Option>
+        <Option><Label>Yes</Label><Value>1</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m08b"] * 10;
+        ]]></Score>
+    </Element>
+    
+    <Element>
+        <Heading>M08 Methods Used.  To score points for this mission, the method used must be a meaningful part of the scoring solution.  For example, squaring up on a mission model or wall to line up the robot before scoring points would be meaningful but squaring up on a mission model or wall after all scoring has been completed would not be.  It is left to the discretion of the referee to determine if the spirit of this rule has been met. Students must point out to the referee when the robot uses one of the methods!</Heading>
+        <Question>Meaningful use of wall following to successfully complete one or more missions.  (10 pts)</Question>
+        <Tag>m08c</Tag>
+        <Option><Label>No</Label><Value>0</Value><Default/></Option>
+        <Option><Label>Yes</Label><Value>1</Value></Option>
+        <Score><![CDATA[
+            score += this.answers["m08c"] * 10;
+        ]]></Score>
+    </Element>
+</Scoring_Elements>

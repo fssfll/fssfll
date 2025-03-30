@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <!--<meta name="viewport" content="width=device-width, initial-scale=1">-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+
+        <title>FLL scorer</title>
+
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+        <!-- Optional theme -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+
+        <link rel="stylesheet" href="index.css" charset="utf-8">
+
+        <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+        <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+
+        <!-- Latest compiled and minified JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+
+        <script src="timer.js"></script>
+        <script src="index.js"></script>
+    </head>
+
+    <body>
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#top-navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="https://github.com/sim642/FLL-scorer">FLL scorer</a>
+                </div>
+
+                <div class="collapse navbar-collapse" id="top-navbar-collapse">
+                    <form class="navbar-form navbar-left">
+                        <div class="form-group">
+                            <label>Challenge:</label>
+                            <select class="form-control" id="challenge">
+                                <option value="spring2024">FSS FLL Spring 2024</option>
+                                <option value="spring2022">FSS FLL Spring 2022</option>
+                            </select>
+                        </div>
+
+                        <button type="button" class="btn btn-default" id="reset">Reset</button>
+                    </form>
+
+                    <form class="navbar-form navbar-right" id="submitform" method="post" action="/">
+                        <button type="button" class="btn btn-default" id="timer">Start</button>
+
+                        <div class="form-group">
+                            <label>Time:</label>
+                            <p class="form-control-static" id="time">
+                                <span id="min">-</span>:<span id="sec">--</span>.<span id="ms">-</span>
+                            </p>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Score:</label>
+                            <p class="form-control-static" id="score">0</p>
+                        </div>
+
+                        <button type="submit" class="btn btn-default" id="submit">Validate</button>
+                    </form>
+                </div>
+            </div>
+        </nav>
+
+        <div id="elements" class="container-fluid">
+        </div>
+
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-53231859-3', 'auto');
+            ga('send', 'pageview');
+        </script>
+    </body>
+</html>
