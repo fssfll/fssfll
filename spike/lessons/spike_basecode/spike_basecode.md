@@ -57,6 +57,6 @@ This module creates a robot class which defines important pieces of how your rob
 <IMG ALIGN="CENTER" SRC="https://fssfll.github.io/fssfll/images/finish.jpg">
 <BR>
 <B>Congratulations, you have completed the lesson!</B><BR>
-<A HREF="https://fssfll.github.io/fssfll/lessons/intermediate/">Return To Intermediate Lessons</A>
+<A HREF="https://fssfll.github.io/fssfll/spike/lessons/intermediate/">Return To Intermediate Lessons</A>
 <BR>
  </P>

@@ -1,12 +1,12 @@
 ---
-title: Create Your First Program For the Lego EV3 
-subtitle: Use The Bolton Robotics Base Code, Microsoft Visual Studio, and Program the EV3 Robot
+title: Create Your First Program For the Lego Spike 
+subtitle: Use The Bolton Robotics Base Code, Microsoft Visual Studio, and Program the Spike Robot
 ---
 
 # Review Your Robot Connections
 If you have not already done so, confirm your robot port wiring, wheel diameter, and wheel track matches the configuration in bolton_robotics_robot.py
 
-If your robot doesn't match the configuration, you will likely not be able to complete this training module.  Use the [Customizing Your Robot](../../ev3_customizing/ev3_customizing) training module to determine how to update bolton_robotics_robot.py to match your robot.
+If your robot doesn't match the configuration, you will likely not be able to complete this training module.  Use the [Customizing Your Robot](../../spike_customizing/spike_customizing) training module to determine how to update bolton_robotics_robot.py to match your robot.
 
 # Training Video
 First watch the video below which completes all the steps in this training module.
@@ -49,9 +49,10 @@ def mission_one(r):
     r.robot.turn(90)
 ```
 
-- Use the EV3DEV device browser to Connect to your robot
-- Select "Run and Debug" and "Start Debugging" to both download and then the bolton robotics base code
-- Use the EV3 buttons to select and run mission 1
+- Open the Pybricks App
+- Click the Bluetooth Icon and connect to your robot
+- Click the triangle to send your code to the robot
+- Use the Spike buttons to select and run mission 1
     
 # Why is there an "r." at the beginning of the robot commands? 
 You may have noticed in the training video the instructions to make the robot drive straight and turn are preceeded with "r." like this:  
@@ -76,6 +77,6 @@ When we talk about instantiation, we're essentially talking about creating an ob
 <IMG ALIGN="CENTER" SRC="https://fssfll.github.io/fssfll/images/finish.jpg">
 <BR>
 <B>Congratulations, you have completed the lesson!</B><BR>
-<A HREF="https://fssfll.github.io/fssfll/lessons/intermediate/">Return To Intermediate Lessons</A>
+<A HREF="https://fssfll.github.io/fssfll/spike/lessons/intermediate/">Return To Intermediate Lessons</A>
 <BR>
  </P>

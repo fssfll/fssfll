@@ -29,6 +29,6 @@ __Congratulations to the following students have completed the Challenge #1 cour
 <IMG ALIGN="CENTER" SRC="https://fssfll.github.io/fssfll/images/finish.jpg">
 <BR>
 <B>Congratulations, you have completed the lesson!</B><BR>
-<A HREF="https://fssfll.github.io/fssfll/lessons/beginner/">Return To Beginner Lessons</A>
+<A HREF="https://fssfll.github.io/fssfll/ev3/lessons/beginner/">Return To Beginner Lessons</A>
 <BR>
  </P>

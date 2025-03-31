@@ -24,7 +24,7 @@ subtitle: How to use the EV3 Display
  - The picture below shows the "x" and "y" axis on the EV3 display along with some simple graphics made using turning on some pixels
 
 <p align="center">
-<IMG ALIGN="LEFT" SRC="https://fssfll.github.io/fssfll/lessons/display/display.jpg">
+<IMG ALIGN="LEFT" SRC="https://fssfll.github.io/fssfll/spike/lessons/display/display.jpg">
  </P>
  
 ## Displaying a text message
