@@ -38,7 +38,7 @@ subtitle: Create and Simulate Your First Python Program
 <TR>
 <TD>
 <img width="600" height="1"><BR>
-<IMG ALIGN="LEFT" SRC="https://fssfll.github.io/fssfll/lessons/lesson1/robot_straight.gif"><IMG ALIGN="RIGHT" SRC="https://fssfll.github.io/fssfll/lessons/lesson1/robot_turn.gif">
+<IMG ALIGN="LEFT" SRC="https://fssfll.github.io/fssfll/ev3/lessons/lesson1/robot_straight.gif"><IMG ALIGN="RIGHT" SRC="https://fssfll.github.io/fssfll/ev3/lessons/lesson1/robot_turn.gif">
 </TD>
 </TR>
 </TABLE>

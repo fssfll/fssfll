@@ -1,9 +1,9 @@
 {% if page.url contains '/ev3/' %}
-  {% assign base_path = '/ev3/' %}
+  {% assign base_path = '/fssfll/ev3/' %}
 {% elsif page.url contains '/spike/' %}
-  {% assign base_path = '/spike/' %}
+  {% assign base_path = '/fssfll/spike/' %}
 {% else %}
-  {% assign base_path = '/' %}
+  {% assign base_path = '/fssfll/' %}
 {% endif %}
 
 <nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom {% if page.nav-short %}top-nav-short-permanent{% else %}top-nav-regular{% endif %}">

@@ -21,6 +21,6 @@ After completing the steps in the instructions above, continue to the next modul
 <IMG ALIGN="CENTER" SRC="https://fssfll.github.io/fssfll/images/finish.jpg">
 <BR>
 <B>Congratulations, you have completed the lesson!</B><BR>
-<A HREF="https://fssfll.github.io/fssfll/lessons/intermediate/">Return To Intermediate Lessons</A>
+<A HREF="https://fssfll.github.io/fssfll/ev3/lessons/intermediate/">Return To Intermediate Lessons</A>
 <BR>
  </P>
