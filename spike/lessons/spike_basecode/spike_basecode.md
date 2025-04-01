@@ -1,6 +1,6 @@
 ---
-title: VSC and Bolton Robotics Base Code
-subtitle: Learn the basics of Visual Studio Code and the Bolton Robotics Base Code
+title: Pybricks IDE and Bolton Robotics Base Code
+subtitle: Learn the basics of the Pybricks IDE and the Bolton Robotics Base Code
 ---
 
 # What is the Bolton Robotics Base Code?
@@ -17,7 +17,7 @@ By encapsulating key hardware configurations within the robot class, students ca
 
 __Program Selection Interface:__
 
-A notable feature is the program select menu interface. This user-friendly menu empowers students to choose from a selection of up to 8 programs they've created to address specific challenges. This streamlined interface enhances accessibility and facilitates easy navigation between different solutions.
+A notable feature is the program select menu interface. This user-friendly menu empowers students to choose from a selection of up to 9 programs they've created to address specific challenges. This streamlined interface enhances accessibility and facilitates easy navigation between different solutions.
 
 __Efficient Problem Solving:__
 
@@ -25,7 +25,7 @@ The overarching goal is to expedite the development cycle. With the base code in
 In essence, the Bolton Robotics Base Code acts as a supportive scaffold, allowing students to focus on the creative and problem-solving aspects of FIRST Lego League Challenges without being bogged down by repetitive setup tasks. It's a tool designed to accelerate learning and foster a hands-on, exploratory approach to robotics.
 
 # How Do I Get the Base Robot Code?
-- Visit the GitHub repository where the Bolton Robotics Base Code is hosted: [Bolton Robotics Base Code Repository](https://github.com/fssfll/fll_basecode).
+- Visit the GitHub repository where the Bolton Robotics Base Code is hosted: [Bolton Robotics Base Code Repository](https://github.com/fssfll/spike_basecode).
 - On the GitHub page, click on the "Code" button and then select "Download ZIP" to download the entire project as a ZIP file.
 - Extract the downloaded ZIP file to a location on your computer.
 - Open Visual Studio Code and navigate to the folder where you extracted the Base Code.
