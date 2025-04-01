@@ -22,7 +22,7 @@ In addition to Pybricks Python resources, we've also gatheter a collection of FI
 To begin select the type of Robot you are competing with by clicking on the picture the picture of the Spike Robot or the EV3 Robot.
 <CENTER>
 <TABLE>
-<TR><TD><A HREF="https://fssfll.github.io/fssfll/spike/index.html"><img src="https://fssfll.github.io/fssfll/images/spike_robot.jpg" width=200></A></TD><TD><A HREF="https://fssfll.github.io/fssfll/ev3/index.html"><img src="https://fssfll.github.io/fssfll/images/ev3_robot.jpg" width=200></A></TD>
+<TR><TD><A HREF="https://fssfll.github.io/fssfll/spike/index.html"><img src="https://fssfll.github.io/fssfll/images/spike_robot.jpg" width=200><BR> SPIKE BOT</A></TD><TD><A HREF="https://fssfll.github.io/fssfll/ev3/index.html"><img src="https://fssfll.github.io/fssfll/images/ev3_robot.jpg" width=200><BR> EV3 BOT</A></TD>
 </TR>
 </TABLE>
 </CENTER>

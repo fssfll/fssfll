@@ -10,9 +10,7 @@ The game mat is shown below:
 ## Missions
 There are 8 missions to solve with scoring conditions described in the scoring tool.  Remember to read the scoring conditions carefully!
 
-[Bolton Robotics FLL Around Bolton Scoring Tool](https://fssfll.github.io/fssfll/FLL-scorer/)
-
-[Printable Scoring Rules](./Around_Bolton_Rules_2024.pdf)
+[Bolton Robotics FLL Around Bolton Scoring Tool](https://fssfll.github.io/fssfll/spike/FLL-scorer/)
 
 ## Additional Rules
  * You can ony interact with mission models or cargo in the launch/home quarter circle

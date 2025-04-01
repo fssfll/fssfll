@@ -49,4 +49,4 @@ The Bolton Robotics Around Bolton Game is like a real FLL challenge on a 1/3 siz
 
 ## More Resources
 * [Helpful Python Commands](./howto/Python_Commands.pdf) : List of helpful commands including how to use attachment motors
-* [Pybricks Documentation](https://pybricks.com/ev3-micropython/index.html)
+* [Pybricks Spike Documentation](https://docs.pybricks.com/en/stable/)
