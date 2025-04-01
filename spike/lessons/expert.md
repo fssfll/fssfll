@@ -24,7 +24,7 @@ There's always more to learn!  As an expert, you now have the knowledge and tool
 </TD>
 </TR>
 
-<TR><TD><img src="../../images/pid_feedback_loop.jpg" width=200><BR>Learn about different kinds of feedback loops</TD><TD>The Bolton Robotics line following module uses a simple proportional feedback loop.  Ever notice that sometimes the robot won't follow the line or may wiggle from side-to-side?  Learn more about how a proportional feedback loop works, what its limitations are, and then explore other better performing kinds of feedback loops.  There are many online tutorials, some even use the Lego EV3, do some research!   One better performing feedback loop is called "PID" which stands for Proportional, Integral, and Derivative.  Implement a PID or other type of better performing feedback loop as part of a line following or gyro drive method. 
+<TR><TD><img src="../../images/pid_feedback_loop.jpg" width=200><BR>Learn about different kinds of feedback loops</TD><TD>The Bolton Robotics line following module uses a simple proportional feedback loop.  Ever notice that sometimes the robot won't follow the line or may wiggle from side-to-side?  Learn more about how a proportional feedback loop works, what its limitations are, and then explore other better performing kinds of feedback loops.  There are many online tutorials, some even use the Lego Spike robot, do some research!   One better performing feedback loop is called "PID" which stands for Proportional, Integral, and Derivative.  Implement a PID or other type of better performing feedback loop as part of a line following or gyro drive method. 
 </TD>
 </TR>
 </TABLE>
