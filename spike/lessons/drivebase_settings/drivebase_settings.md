@@ -19,11 +19,11 @@ robot.settings(straight_speed=200, straight_acceleration=100, turn_rate=100, tur
  * Don’t worry about the straight_acceleration and the turn_acceleration entries for now, you will not need use these while you’re still a beginner, but might do more with them as you gain experience
  * **straight_speed(speed in mm/s)** - Speed of the robot during **straight()**
  * **turn_rate(rotational speed in deg/s)** - Turn rate of the robot during **turn()**
- * This is described in additional detail here [https://pybricks.com/ev3-micropython/robotics.html](https://pybricks.com/ev3-micropython/robotics.html)
+ * This is described in additional detail here [https://docs.pybricks.com/en/stable/robotics.html](https://docs.pybricks.com/en/stable/robotics.html)
  * Not only can this can be used at the beginning of the program before robot moves, but it can be used throughout the program to change speeds.
  * Before changing the robot speed in your program you must use the **stop()** method.
  * Let's try an example!
- * Start the [FSS FLL Simulator: Speed Run Map](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Flessons%2Fdrivebase_settings%2Fspeed_run.json)
+ * Start the [FSS FLL Simulator: Speed Run Map](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Fspike%2Flessons%2Fdrivebase_settings%2Fspeed_run.json)
  * Make sure you are running in Python Pybricks Mode
  * Copy the code in in below (be careful to include it below "Where your code starts")
  * Goto the simulator tab and hit the play triangle
@@ -52,7 +52,7 @@ robot.straight(-300)
 
 ### 1. In a different browser window or browser tab start the simulator: 
 
- * Start the [FSS FLL Simulator: Speed Run Map](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Flessons%2Fdrivebase_settings%2Fspeed_run.json)
+ * Start the [FSS FLL Simulator: Speed Run Map](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Fspike%2Flessons%2Fdrivebase_settings%2Fspeed_run.json)
  * Make sure you are in Python "Pybricks Mode"
  * Take a look at the game map in the Simulator tab
  * This is a timed trial.  Your goal is to have your bot finish at the center of the map completely behind the black and yellow striped zone before time expires.

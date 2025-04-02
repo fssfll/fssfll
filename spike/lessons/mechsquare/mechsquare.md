@@ -1,10 +1,9 @@
 ---
 title: Squaring Up The Robot On A Mission Model 
-subtitle: Learn how to square up on the mission model to improve robot consistency.
 ---
 
 # What is the problem?
-EV3 robots (both real world and virtual) hardly ever do the same thing every time.  This is because there are slight variations in how the robot is started, wheel pre-loading, friction and many other factors that result in the robot driving a little more left, right, further, not as far even when the same program is run.  
+Lego robots (both real world and virtual) hardly ever do the same thing every time.  This is because there are slight variations in how the robot is started, wheel pre-loading, friction and many other factors that result in the robot driving a little more left, right, further, not as far even when the same program is run.  
 
 Anyone who has competed in FLL knows this can be __super frustrating__!  
 
@@ -25,14 +24,14 @@ __Attempt to solve the mission using just the accuracy of the virtual robot__
 Use the simulator to come up with a simple robot program that drives down the road and attempts to knock over the scoring tower.  After you have the program able to sometimes knock over the green scoring tower (it probably won't work every time) stop changing your program.  
 - Run your program 10 times and record how many times you were able to knock over the green tower and leave the two red towers standing.
 
-[Launch the 3 Tower Challenge - without funnel attachment](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Flessons%2Fmechsquare%2Fmechsquareworld.json&robotJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Flessons%2Fmechsquare%2Fwithoutguiderobot.json)
+[Launch the 3 Tower Challenge - without funnel attachment](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Fspike%2Flessons%2Fmechsquare%2Fmechsquareworld.json&robotJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Fspike%2Flessons%2Fmechsquare%2Fwithoutguiderobot.json)
 
 __Add A Funnel Attachment to improve accuracy__
 
 Copy or recreate the same program using the link below. This link is the same 3 tower challenge with an potentially improved robot that adds a funnel alignment guide.  
 - Like before, run your program 10 times and record how many times you were able to knock over the green tower and leave the two red towers standing.
 
-[Launch the 3 Tower Challenge - with funnel attachment](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Flessons%2Fmechsquare%2Fmechsquareworld.json&robotJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Flessons%2Fmechsquare%2Fwithguiderobot.json)
+[Launch the 3 Tower Challenge - with funnel attachment](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Flessons%2Fspike%2Fmechsquare%2Fmechsquareworld.json&robotJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Fspike%2Flessons%2Fmechsquare%2Fwithguiderobot.json)
 
 # Think About The Results
 - How many times out of 10 did you solve the mission with and without the funnel attachment?  

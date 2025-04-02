@@ -21,7 +21,7 @@ subtitle: Introduction to code loops
    2. A condition that can be tested to see if it is True or False
    3. A block of code that you want to run repeatedly
  * With that in mind, let's try an example.  
- * Start the [FSS FLL Simulator](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Flessons%2Flesson1%2Flesson1.json)
+ * Start the [FSS FLL Simulator](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Fspike%2Flessons%2Flesson1%2Flesson1.json)
  * Make sure you are running in Python Pybricks Mode
  * Copy the code in in below (be careful to include it below "Where your code starts")
  * If your computer has speakers, turn up the volume to hear The Count!
@@ -40,8 +40,6 @@ count = 1
 while (count <= 3):
     # Print to the console the number followed by  ...ah... ah... ah...
     print(str(count) + " ...ah... ah... ah...")
-    # Have the robot say the number followed by  ...ah... ah... ah...
-    ev3.speaker.say(str(count) + " ...ah... ah... ah...")
     # Add 1 to the count every time the loop executes
     count = count + 1
 ```
@@ -61,8 +59,6 @@ while (count <= 3):
 while (count <= 3):
     # Print to the console the number followed by  ...ah... ah... ah...
     print(str(count) + " ...ah... ah... ah...")
-    # Have the robot say the number followed by  ...ah... ah... ah...
-    ev3.speaker.say(str(count) + " ...ah... ah... ah...")
     # Add 1 to the count every time the loop executes
     count = count + 1
 
@@ -76,7 +72,7 @@ count = 1
 
 ### 1. In a different browser window or browser tab start the simulator: 
 
-  * [Launch FSS FLL Simulator: Code Loops](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Flessons%2Flesson1%2Flesson1.json)
+  * [Launch FSS FLL Simulator: Code Loops](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Fspike%2Flessons%2Flesson1%2Flesson1.json)
   * Make sure you are in Python "Pybricks Mode"
 
 ### 2. Copy in the example program below and try out the already completed "Part 1"

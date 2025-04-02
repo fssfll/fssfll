@@ -22,7 +22,7 @@ subtitle: Driving Using Loops
  * Using the **drive()** method by itself will make your robot drive in circles until you press the stop button or the batteries run out!
  * Using the **drive()** method inside a while loop allows you to control the distance.
  * Let's try an example.
- * Start the [FSS FLL Simulator: Line Following](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Flessons%2Fdriving_with_loops%2Flinefollowing.json)
+ * Start the [FSS FLL Simulator: Line Following](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Fspike%2Flessons%2Fdriving_with_loops%2Flinefollowing.json)
 
 ```python
 # Create and define distance, speed, and turn variables
@@ -66,7 +66,7 @@ robot.stop()
 
 ### 1. In a different browser window or browser tab start the simulator: 
 
-  * [Launch FSS FLL Simulator: Line Following Challenge](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Flessons%2Fdriving_with_loops%2Flinefollowing2.json)
+  * [Launch FSS FLL Simulator: Line Following Challenge](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Fspike%2Flessons%2Fdriving_with_loops%2Flinefollowing2.json)
   * Make sure you are in Python "Pybricks Mode"
 
 ### 2. Copy in the example program below and try out the already completed "Part 1"
@@ -140,6 +140,6 @@ ev3.speaker.say(“Way to go!  Now work on Part 2”)
 <IMG ALIGN="CENTER" SRC="https://fssfll.github.io/fssfll/images/finish.jpg">
 <BR>
 <B>Congratulations, you have completed the lesson!</B><BR>
-<A HREF="https://fssfll.github.io/fssfll/spike/lessons/spike/beginner/">Return To Beginner Lessons</A>
+<A HREF="https://fssfll.github.io/fssfll/spike/lessons/beginner/">Return To Beginner Lessons</A>
 <BR>
  </P>

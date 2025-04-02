@@ -37,7 +37,7 @@ robot.turn(90)
   * The console is where you can view the results of commands and status like the print() function.
   * In the simulator the console is located at the bottom of the screen and can be expanded by clicking on the inverted "V" (this is called a chevron)
   * In some cases, like when using the simulator or when using Visual Studio Code these can be used to display helpful information about what your code is doing.
-  * Print statements are not displayed on the EV3's screen.  We'll cover how to do that in a different lesson.
+  * Print statements are not displayed on the Spike Robots LEDs.  We'll cover how to do that in a different lesson.
   * You print text with the print function by including it in quotes like this:
 ```python
 # A simple text print message
@@ -69,7 +69,7 @@ print("Speed= " + str(speed) + " mm/Second")
 
 ### 1. In a different browser window or browser tab start the simulator: 
 
-  * [Launch FSS FLL Simulator: Debugging](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Flessons%2Flesson1%2Flesson1.json)
+  * [Launch FSS FLL Simulator: Debugging](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Fspike%2Flessons%2Flesson1%2Flesson1.json)
   * Make sure you are in Python "Pybricks Mode"
 
 ### 2. Copy in the example program below and try out the already completed "Part 1"
