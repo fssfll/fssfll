@@ -35,7 +35,7 @@ In essence, the Bolton Robotics Base Code acts as a supportive scaffold, allowin
 
 __Code Structure__
 The Bolton Robotics Base Code is composed of different python files, each responsible for a different function as shown in the graphic below:
-<p  align="center"><img src="../../../images/bolton_robotics_code.jpg" width=600></p>
+<p  align="center"><img src="../../../images/spike_basecode.jpg" width=600></p>
 
 __[main.py](https://github.com/fssfll/fll_basecode/blob/main/main.py)__
 <BR>
