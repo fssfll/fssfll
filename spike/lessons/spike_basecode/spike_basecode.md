@@ -1,6 +1,6 @@
 ---
 title: Pybricks IDE and Bolton Robotics Base Code
-subtitle: Learn the basics of the Pybricks IDE and the Bolton Robotics Base Code
+subtitle:
 ---
 
 # What is the Bolton Robotics Base Code?
@@ -21,16 +21,14 @@ One of the best features is the program select menu. This lets students easily p
 
 __Efficient Problem Solving:__
 
-The goal of the base code is to speed up the coding process so students can focus on solving problems. With a pre-defined robot class and an easy-to-use menu, students can quickly test ideas, experiment, and improve their solutions—key skills for success in Lego League!
+The goal of the base code is to speed up the coding process so students can focus on solving problems. With a pre-defined robot class and an easy-to-use menu, students can quickly test ideas, experiment, and improve their solutions—key skills for success in First Lego League!
 
-In short, the Bolton Robotics Base Code helps students spend less time on setup and more time being creative and solving challenges. It’s a tool designed to make learning robotics faster, easier, and more fun!
 
 # How Do I Get the Base Robot Code?
 - Visit the GitHub repository where the Bolton Robotics Base Code is hosted: [Bolton Robotics Base Code Repository](https://github.com/fssfll/spike_basecode).
 - On the GitHub page, click on the "Code" button and then select "Download ZIP" to download the entire project as a ZIP file.
-- Extract the downloaded ZIP file to a location on your computer.
-- Open Visual Studio Code and navigate to the folder where you extracted the Base Code.
-- Open the folder in Visual Studio Code.
+- Extract the downloaded ZIP file to a location on your computer and extract the contents.
+- Open Pybricks IDE, click the "Import a file" icon, navigate to the folder where you extracted the Base Code, and add all the python files.
 
 # What do the files I downloaded do?
 
