@@ -18,7 +18,7 @@ The Spike robot is something you specially design to solve exciting challenges. 
 The Spike robot can be equipped with sensors that act as its eyes and ears, helping it navigate the competition field and interact with the elements around it.   But here's where it gets even more awesome: you get to be the commander! Using a special computer called the "brick," (or sometimes called the "brain") you'll give your robot precise instructions to complete specific missions all by itself. It's like coaching a robot teammate to score points, solve problems, and showcase the special abilities you have given it in the competition.
 
 __Example Real World Spike Robot:__
-<p  align="center"><img src="../../images/spike_robot.jpg" width=200></P>
+<p  align="center"><img src="../../../images/spike_robot.jpg" width=200></P>
 
 __Example Virtual Spike Robot:__
 <p  align="center"><img src="../../images/ev3_robot_sim.jpg" width=200></P>
