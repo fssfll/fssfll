@@ -32,7 +32,7 @@ __Computer with Bluetooth Functionality and Internet Access:__ Fire up that comp
 </TD>
 </TR>
   
-<TR><TD><img src="../../images/bolton_robotics_code.jpg" width=200><BR><A HREF="../Spike_basecode/Spike_basecode">Launch Lesson 2</A> </TD><TD><B>Pybricks and the Bolton Robotics Base Code</B><BR>Learn the basics of the Pybricks IDE and the Bolton Robotics Base Code
+<TR><TD><img src="../../images/bolton_robotics_code.jpg" width=200><BR><A HREF="../spike_basecode/spike_basecode">Launch Lesson 2</A> </TD><TD><B>Pybricks and the Bolton Robotics Base Code</B><BR>Learn the basics of the Pybricks IDE and the Bolton Robotics Base Code
 </TD>
 </TR>
 
