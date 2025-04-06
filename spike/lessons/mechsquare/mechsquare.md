@@ -31,7 +31,7 @@ __Add A Funnel Attachment to improve accuracy__
 Copy or recreate the same program using the link below. This link is the same 3 tower challenge with an potentially improved robot that adds a funnel alignment guide.  
 - Like before, run your program 10 times and record how many times you were able to knock over the green tower and leave the two red towers standing.
 
-[Launch the 3 Tower Challenge - with funnel attachment](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Flessons%2Fspike%2Fmechsquare%2Fmechsquareworld.json&robotJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Fspike%2Flessons%2Fmechsquare%2Fwithguiderobot.json)
+[Launch the 3 Tower Challenge - with funnel attachment](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Fspike%2Flessons%2Fmechsquare%2Fmechsquareworld.json&robotJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Fspike%2Flessons%2Fmechsquare%2Fwithguiderobot.json)
 
 # Think About The Results
 - How many times out of 10 did you solve the mission with and without the funnel attachment?  
