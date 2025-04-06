@@ -21,7 +21,7 @@ wait(7500)
 robot.stop()
 ```
 
-__Example wall following attachment on a virtual EV3 robot:__
+__Example wall following attachment on a virtual Spike robot:__
 The wall following attachment which contacts the wall is shown in red.
 <p  align="center"><img src="../../../images/wallfollowing_robot.jpg" width=300></P>
 
@@ -36,7 +36,7 @@ __Attempt to solve the mission using just the accuracy of the virtual robot__
 Use the simulator to come up with a simple robot program that pushes the bowling ball and attampts to knock over as many pins as possible.  After you have the program able to sometimes knock over some pins (it probably won't work every time) stop changing your program.  
 - Run your program 3 times and record how many times you were able to knock over all the pins.
 
-[Launch the Bowling Challenge - without wall following](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Flessons%2Fwallfollow%2Fbowling_world.json)
+[Launch the Bowling Challenge - without wall following](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Fspike%2Flessons%2Fwallfollow%2Fbowling_world.json)
 
 __Add a wall following attachment to improve accuracy__
 
@@ -44,7 +44,7 @@ Now let's try again with a potentially better robot. The link below is the same 
 - Like before, run your program 3 times and record how many times you were able to knock over the green tower and leave the two red towers standing.
 - Hint: Now that you can wall follow, how far could the robot go?  Could it make it to the where the bowling alley narrows or maybe even much further?
 
-[Launch the Bowling Challenge - with wall following](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Flessons%2Fwallfollow%2Fbowling_world.json&robotJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Flessons%2Fwallfollow%2Fwallfollow_robot.json)
+[Launch the Bowling Challenge - with wall following](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Fspike%2Flessons%2Fwallfollow%2Fbowling_world.json&robotJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Fspike%2Flessons%2Fwallfollow%2Fwallfollow_robot.json)
 
 # Think About The Results
 - How many times did you solve the mission with and without the the wall following attachment?  
