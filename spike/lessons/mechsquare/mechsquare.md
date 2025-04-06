@@ -9,10 +9,10 @@ Anyone who has competed in FLL knows this can be __super frustrating__!
 
 Fortunately, there are tricks to improve your chances of success even when the robot goes a little off course.  There's a clever maneuver known as "squaring up." Essentially, it involves the robot purposefully driving into the mission model to nail that perfect alignment. To up the robot's game, teams often design in a funnel-like attachment. This contraption acts as a friendly guide, making sure the robot stays on track and hits the mark, even if it had veered a bit off course. With this setup, the robot becomes more consistent in competition.
 
-__Example funnel aligmnent attachment on a real world EV3 robot:__
-<p  align="center"><img src="../../../images/alignment_funnel.jpg" width=300></P>
+__Example funnel aligmnent attachment on a real world Lego Spike robot:__
+<p  align="center"><img src="../../../images/spike_alignment_funnel.jpg" width=300></P>
 
-__Example funnel aligmnent attachment on a virtual EV3 robot:__
+__Example funnel aligmnent attachment on a virtual Lego Spike robot:__
 <p  align="center"><img src="../../../images/alignment_funnel_sim.jpg" width=300></P>
 
 # Your Challenge
