@@ -1,7 +1,7 @@
 {
   "worldName": "custom",
   "options": {
-    "imageURL": "https://fssfll.github.io/fssfll/lessons/mechsquare/mechsquaremap.jpg",
+    "imageURL": "https://fssfll.github.io/fssfll/lessons/spike/mechsquare/mechsquaremap.jpg",
     "groundType": "box",
     "length": 100,
     "width": 100,
