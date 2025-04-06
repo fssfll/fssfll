@@ -1,30 +1,19 @@
 ---
 title: Using the Real World Spike Robot 
-subtitle: Using Pybricks IDE, Bolton Robotics Base Code, and Real World Spike Robots
 ---
 <p  align="center"><img src="../../images/intermediate.jpg" width=100></P>
-Bolton Robotics has been rocking First Lego League competitions with Spike robots using Python, and it's super awesome and easy! Here's the lowdown:
 
-__Easy To Use Python:__ Python is like the superhero language for programming. It's super easy to use, which means you spend more time having fun and solving cool challenges with your robot instead of getting stuck in tricky coding stuff.
+Bolton Robotics has been using Python to program Spike robots for FIRST Lego League, and it's made coding both powerful and approachable. Python is easy to learn, which means teams can focus on solving challenges instead of getting stuck on complicated code. It’s also great for debugging—finding and fixing mistakes quickly so your robot does what you want. Since Python is used by real engineers, you’re getting hands-on experience with a professional tool. It also makes teamwork and sharing code simple, so everyone can contribute and learn from each other. Whether you're building, coding, or collaborating, Python helps your team work smarter and go further.
 
-__Fixing Mistakes is a Breeze:__ Python makes fixing mistakes (aka debugging) a piece of cake. You can quickly figure out what's going wrong and make your robot do exactly what you want it to do. No more head-scratching!
-
-__Teamwork Galore:__ Python is like the ultimate team player. You and your pals can work on different parts of the project at the same time without stepping on each other's toes. Teamwork makes the dream work, right?
-
-__Sharing is Caring:__ With Python, it's super easy to share your awesome code with other teams. Imagine all the cool ideas bouncing around and making everyone's robots even cooler. Co-Opertition and sharing is caring, and Python makes it a breeze.
-
-You are learning the same programming language as used by professional engineers! So, get ready to dive into the Python fun and take your Spike robot to new heights in your FIRST Lego League journey. It's going to be a blast!
 
 # Gather what you need
-Alright, future robotics champs! Before we dive into these awesome learning modules, let's make sure you've got everything you need. These materials are provided by the Bolton Robotics Club.  Here's your checklist:
+Before you jump into the modules, make sure you have everything ready to go. These materials come from the Bolton Robotics Club, and here's what you'll need:
 
-<p  align="center"><img src="../../images/needed_stuff.jpg" width=400><BR>
-Figure From <A HREF="https://pybricks.com/Spike-micropython/startinstall.html">Pybrics Documentation</A>
-</p>
+Lego Spike Robot: 
+You’ll need a Spike robot with at least two medium motors and some wheels so it can move around and take on challenges.
 
-__Lego Spike Robot:__ Make sure you've got a Lego Spike robot ready to roll. It should have at least two medium motors and some cool wheels.
-
-__Computer with Bluetooth Functionality and Internet Access:__ Fire up that computer of yours. We're about to embark on a coding adventure, so make sure it's ready and roaring to go.  Pybricks supports Windows computers and Chromebooks.
+Computer with Bluetooth and Internet Access: 
+You'll need a computer (Windows or Chromebook) with Bluetooth and internet. This is where you'll write your code and connect to your robot using Pybricks.
 
 # Training Modules
 <TABLE>
