@@ -14,7 +14,7 @@ ___Happy coding and good luck!!!___
 
 # Challenge Module
 
-[Launch The Challenge #1 Virtual Robot Game](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Flessons%2Fchallenge1%2Fchallenge1_world.json&robotJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Flessons%2Fchallenge1%2Fchallenge1_robot.json)
+[Launch The Challenge #1 Virtual Robot Game](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Fspike%2Flessons%2Fchallenge1%2Fchallenge1_world.json&robotJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Fspike%2Flessons%2Fchallenge1%2Fchallenge1_robot.json)
 
 
 # Hall of Fame!
