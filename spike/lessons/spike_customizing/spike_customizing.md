@@ -1,12 +1,12 @@
 ---
-title: Customizing the Bolton Robotics BaseCode
+title: Customizing the Bolton Robotic's BaseCode
 ---
 
-
-# What is a Python "class" and why use the bolton_robotics_robot class?
+<BR><BR>
+# What is a Python "class" and why use the Bolton Robotic's "robot" class?
 When programming your FLL robot with Python, a class like Bolton Robotic's "robot" class works like a blueprint or template. It’s a way to describe your robot so the code knows things like what motors and sensors it has, how big the wheels are, and how far apart they’re spaced. Once you set this up, you can use that class to create a robot in your code that’s ready to move and react. The class also includes functions (called methods) that tell the robot how to do things like follow a line, square up to a line, or drive straight using the gyro. This setup helps keep your code organized and makes it easier to program your robot to do exactly what you want.
 
-# What do I need to know about the bolton_robotics_robot class?
+# What do I need to know about the Bolton Robotic's "robot" class?
 
 A Lego Spike robot has dual use motor and sensor ports labelled A-F.  It is up to the robot designer <B>THAT'S YOU!</B> to decide how to use those ports.  The Bolton Robotic's "robot" class assumes a specific configuration of the robot which is described in the comments at the top of the file.  Consider this the 'default' configuration which must be altered as needed to match your robot.  Below is the robot configuration section from the robot.py python program.  The comments in the code explain the configuration so you can modify it as needed.
 
