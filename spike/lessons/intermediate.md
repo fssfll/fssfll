@@ -32,15 +32,15 @@ You'll need a computer (Windows or Chromebook) with Bluetooth and internet. This
 </TD>
 </TR>
 
-<TR><TD><img src="../../images/Spike_robot.jpg" width=200><BR><A HREF="../Spike_customizing/Spike_customizing">Launch Lesson 4</A> </TD><TD><B>Customizing The Bolton Robotics Base Code</B><BR>Your robot may be different than the Bolton Robotics BaseBot.  Learn what you might need to change and how to change it.
+<TR><TD><img src="../../images/spike_robot.jpg" width=200><BR><A HREF="../spike_customizing/spike_customizing">Launch Lesson 4</A> </TD><TD><B>Customizing The Bolton Robotics Base Code</B><BR>Your robot may be different than the Bolton Robotics BaseBot.  Learn what you might need to change and how to change it.
 </TD>
 </TR>
 
-<TR><TD><img src="../../images/first_Spike.jpg" width=200><BR><A HREF="../Spike_first/Spike_first">Launch Lesson 5</A> </TD><TD><B>Create your first program</B><BR>Create your first program, download and run a program on the Spike robot.
+<TR><TD><img src="../../images/first_spike.jpg" width=200><BR><A HREF="../Spike_first/Spike_first">Launch Lesson 5</A> </TD><TD><B>Create your first program</B><BR>Create your first program, download and run a program on the Spike robot.
 </TD>
 </TR>
 
-<TR><TD><img src="../../images/Spike_robot.jpg" width=200><BR><A HREF="../../troubleshooting/troubleshooting">Launch Lesson 6</A> </TD><TD><B>Debugging Tips</B><BR>What to do when it doesn't work
+<TR><TD><img src="../../images/spike_robot2.jpg" width=200><BR><A HREF="../../troubleshooting/troubleshooting">Launch Lesson 6</A> </TD><TD><B>Debugging Tips</B><BR>What to do when it doesn't work
 </TD>
 </TR>
 
