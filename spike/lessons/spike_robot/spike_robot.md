@@ -7,7 +7,7 @@ subtitle:
 In this lesson, you will be building a Spike Prime robot with a compact and practical design. It uses two large motors to drive the wheels, a color sensor for navigation or detecting lines, and two additional motors for attachments—one mounted vertically and one horizontally. This setup keeps the robot small and maneuverable, making it easier to navigate around the FLL game table. It’s also simple to build, which means more time for coding and testing. Plus, the design supports drop-on attachments, so syou can quickly swap out tools for different missions without needing to rebuild the robot each time.
 
 <p align="center">
-<IMG ALIGN="CENTER" SRC="https://fssfll.github.io/fssfll/spike/images/spike_robot.jpg">
+<IMG ALIGN="CENTER" SRC="https://fssfll.github.io/fssfll/spike/images/spike_robot2.jpg">
 </p>
 
 # Build Instructions:
