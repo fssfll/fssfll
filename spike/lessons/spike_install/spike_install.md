@@ -10,7 +10,7 @@ To run Pybricks on your Spike robot, you’ll need to install the Pybricks firmw
 
 The important steps are to:
 - Install Pybricks on your Lego Spike Robot.  Pybricks will not work unless you do this!
-- Use code.pybricks.com or the pybricks app to program and connect to your robot
+- Use [code.pybricks.com](code.pybricks.com) or the pybricks app to program and connect to your robot
 
 After completing the steps in the instructions above, continue to the next module which will cover the Bolton Robotics Base Code.
 
