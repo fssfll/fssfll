@@ -1,12 +1,11 @@
 ---
-title: Create Your First Program For the Lego Spike 
-subtitle: Use The Bolton Robotics Base Code, Microsoft Visual Studio, and Program the Spike Robot
+title: Create Your First Program For the Lego Spike Robot
 ---
 
 # Review Your Robot Connections
 If you have not already done so, confirm your robot port wiring, wheel diameter, and wheel track matches the configuration in bolton_robotics_robot.py
 
-If your robot doesn't match the configuration, you will likely not be able to complete this training module.  Use the [Customizing Your Robot](../../spike_customizing/spike_customizing) training module to determine how to update bolton_robotics_robot.py to match your robot.
+If your robot doesn't match the configuration, you will likely not be able to complete this training module.  Use the [Customizing Your Robot](../../spike_customizing/spike_customizing) training module to determine how to update robot.py to match your robot.
 
 # Training Video
 First watch the video below which completes all the steps in this training module.
@@ -19,42 +18,52 @@ First watch the video below which completes all the steps in this training modul
 # Create and Test Your Program
 The instructions below follow the training video above.
 
-- Open up Microsoft Visual Studio Code and Load the Bolton Robotics Base Code
+- Open up the Pybricks IDE and Load the Bolton Robotics Base Code
 - Select the mission_one.py file
-- Modify the code to make your robot drive straight and then turn.  Make sure keep the same level of indentation:
+- Modify the code to make your robot drive straight and then turn.  You can copy in the example code below if you are stuck.
 
 ```python
-################################
+################################################################################
 # mission_one.py
-################################
-
-import math
-import time
-from pybricks.ev3devices import *
-from pybricks.parameters import *
-from pybricks.robotics import *
-from pybricks.iodevices import *
-from pybricks.tools import wait
-from pybricks.hubs import EV3Brick
-from robot_18300 import robot_18300
+#
+# Description:
+# [Describe What your mission does here]
+#
+# Author(s): [Your Name(s)]
+# Date: [YYYY-MM-DD]
+# Version: 1.0
+#
+# Dependencies:
+# - robot
+# - pybricks.tools
+#
+################################################################################
+from robot import robot
+from pybricks.tools import wait, StopWatch
 
 def mission_one(r):
     print("Running Mission 1")
-    ##########################
-    # My First Python Program
-    ##########################
     # Drive Straight 10 centimeters
     r.robot.straight(100)
     # Turn right 90 degrees
     r.robot.turn(90)
+
+################################
+# KEEP THIS AT THE END OF THE FILE
+# This redirects to running main.
+################################
+if __name__ == "__main__":
+    from main import main
+    main()
 ```
 
-- Open the Pybricks App
-- Click the Bluetooth Icon and connect to your robot
+- Click the Bluetooth Icon and connect to your robot (make sure you pick the right robot if there is more than one listed!)
 - Click the triangle to send your code to the robot
 - Use the Spike buttons to select and run mission 1
+
+<BR><BR>
     
-# Why is there an "r." at the beginning of the robot commands? 
+# You may be wondering... Why is there an "r." at the beginning of the robot commands? 
 You may have noticed in the training video the instructions to make the robot drive straight and turn are preceeded with "r." like this:  
 
 ```python
@@ -68,10 +77,10 @@ This is because in main.py, the robot is "instantiated" and given the name "r" a
 
 ```python
 # Instantiate the Robot
-r = bolton_robotics_robot()
+r = robot.robot()
 ```
 
-When we talk about instantiation, we're essentially talking about creating an object from a class.  In this case we're creating the robot "r" from the class bolton_robotics_robot. Remember a class is like a blueprint for your robot. When you want to bring that robot to life and actually use it, you need to create an instance of that class, and that's where instantiation comes in.
+When we talk about instantiation, we're essentially talking about creating an object from a class.  In this case we're creating the robot "r" from the class robot. Remember a class is like a blueprint for your robot. When you want to bring that robot to life and actually use it, you need to create an instance of that class, and that's where instantiation comes in.
 
 <p align="center">
 <IMG ALIGN="CENTER" SRC="https://fssfll.github.io/fssfll/images/finish.jpg">
