@@ -15,9 +15,12 @@ You’ll need a Spike robot with at least two medium motors and some wheels so i
 Computer with Bluetooth and Internet Access: 
 You'll need a computer (Windows or Chromebook) with Bluetooth and internet. This is where you'll write your code and connect to your robot using Pybricks.
 
+<p  align="center"><img src="../../images/spike_needed_stuff.jpg" width=100></P>
+
+
 # Training Modules
 <TABLE>
-<TR><TD><img src="../../images/needed_stuff.jpg" width=200><BR><A HREF="../Spike_install/Spike_install">Launch Lesson 1</A> </TD><TD><B>Getting Started</B><BR>Installing all the apps.  You can skip this if you or a coach have already installed what's needed.  This step is usually handled by the Bolton Robotics Club Mentors.
+<TR><TD><img src="../../images/spike_needed_stuff.jpg" width=200><BR><A HREF="../Spike_install/Spike_install">Launch Lesson 1</A> </TD><TD><B>Getting Started</B><BR>Installing all the apps.  You can skip this if you or a coach have already installed what's needed.  This step is usually handled by the Bolton Robotics Club Mentors.
 </TD>
 </TR>
   
