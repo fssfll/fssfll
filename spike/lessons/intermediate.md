@@ -23,20 +23,24 @@ You'll need a computer (Windows or Chromebook) with Bluetooth and internet. This
 <TR><TD><img src="../../images/spike_needed_stuff.jpg" width=200><BR><A HREF="../spike_install/spike_install">Launch Lesson 1</A> </TD><TD><B>Getting Started</B><BR>Installing all the apps.  You can skip this if you or a coach have already installed what's needed.  This step is usually handled by the Bolton Robotics Club Mentors.
 </TD>
 </TR>
+
+<TR><TD><img src="../../images/spike_robot.jpg" width=200><BR><A HREF="../spike_robot/spike_robot">Launch Lesson 2</A> </TD><TD><B>Build a Spike Robot</B><BR>Build your own Spike Robot, You can skip this if you are using a pre-built robot.
+</TD>
+</TR>
   
-<TR><TD><img src="../../images/bolton_robotics_code.jpg" width=200><BR><A HREF="../spike_basecode/spike_basecode">Launch Lesson 2</A> </TD><TD><B>Pybricks and the Bolton Robotics Base Code</B><BR>Learn the basics of the Pybricks IDE and the Bolton Robotics Base Code
+<TR><TD><img src="../../images/bolton_robotics_code.jpg" width=200><BR><A HREF="../spike_basecode/spike_basecode">Launch Lesson 3</A> </TD><TD><B>Pybricks and the Bolton Robotics Base Code</B><BR>Learn the basics of the Pybricks IDE and the Bolton Robotics Base Code
 </TD>
 </TR>
 
-<TR><TD><img src="../../images/Spike_robot.jpg" width=200><BR><A HREF="../Spike_customizing/Spike_customizing">Launch Lesson 3</A> </TD><TD><B>Customizing The Bolton Robotics Base Code</B><BR>Your robot may be different than the Bolton Robotics BaseBot.  Learn what you might need to change and how to change it.
+<TR><TD><img src="../../images/Spike_robot.jpg" width=200><BR><A HREF="../Spike_customizing/Spike_customizing">Launch Lesson 4</A> </TD><TD><B>Customizing The Bolton Robotics Base Code</B><BR>Your robot may be different than the Bolton Robotics BaseBot.  Learn what you might need to change and how to change it.
 </TD>
 </TR>
 
-<TR><TD><img src="../../images/first_Spike.jpg" width=200><BR><A HREF="../Spike_first/Spike_first">Launch Lesson 4</A> </TD><TD><B>Create your first program</B><BR>Create your first program, download and run a program on the Spike robot.
+<TR><TD><img src="../../images/first_Spike.jpg" width=200><BR><A HREF="../Spike_first/Spike_first">Launch Lesson 5</A> </TD><TD><B>Create your first program</B><BR>Create your first program, download and run a program on the Spike robot.
 </TD>
 </TR>
 
-<TR><TD><img src="../../images/Spike_robot.jpg" width=200><BR><A HREF="../../troubleshooting/troubleshooting">Launch Lesson 5</A> </TD><TD><B>Debugging Tips</B><BR>What to do when it doesn't work
+<TR><TD><img src="../../images/Spike_robot.jpg" width=200><BR><A HREF="../../troubleshooting/troubleshooting">Launch Lesson 6</A> </TD><TD><B>Debugging Tips</B><BR>What to do when it doesn't work
 </TD>
 </TR>
 
