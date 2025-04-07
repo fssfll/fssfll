@@ -18,7 +18,7 @@ In this lesson, you will be building a Spike Prime robot with a compact and prac
 
 <B>If you prefer Lego Instruction Style instructions:</B><BR>
 <I>At the end of these instructions you can find a parts list.</I><BR>
-[Bolton Robotic's Basebot Assembly Instructions](https://github.com/fssfll/spike/lessons/spike_robot/bolton_spikebot_inst.pdf)
+[Bolton Robotic's Basebot Assembly Instructions]([https://github.com/](https://fssfll.github.io/fssfll/spike/lessons/spike_robot/bolton_spikebot_inst.pdf)
 
 # Wiring Instructions:
 Route the wires as neatly as possible by using the wire clips and folding extra wire and storing in the unused internal space between the large drive motors.  Use the table below to determine where to connect the motors and sensors.
