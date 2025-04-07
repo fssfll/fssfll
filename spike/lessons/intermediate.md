@@ -20,7 +20,7 @@ You'll need a computer (Windows or Chromebook) with Bluetooth and internet. This
 
 # Training Modules
 <TABLE>
-<TR><TD><img src="../../images/spike_needed_stuff.jpg" width=200><BR><A HREF="../Spike_install/Spike_install">Launch Lesson 1</A> </TD><TD><B>Getting Started</B><BR>Installing all the apps.  You can skip this if you or a coach have already installed what's needed.  This step is usually handled by the Bolton Robotics Club Mentors.
+<TR><TD><img src="../../images/spike_needed_stuff.jpg" width=200><BR><A HREF="../spike_install/spike_install">Launch Lesson 1</A> </TD><TD><B>Getting Started</B><BR>Installing all the apps.  You can skip this if you or a coach have already installed what's needed.  This step is usually handled by the Bolton Robotics Club Mentors.
 </TD>
 </TR>
   
