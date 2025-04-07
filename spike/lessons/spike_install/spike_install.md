@@ -1,19 +1,16 @@
 ---
-title: Getting Started With A Lego EV3
-subtitle: Installing the apps 
+title: Getting Started With A Lego Spike and Pybricks
 ---
 # You may not need to do this!
-The setup steps to needed to get your robot ready to go may have already taken care of by the the Bolton Robotics mentors. If you are using your own laptop or work on a computer that does not have VS Code installed, you will need to install it.  Also, check to see if a microSD card is already installed in you robot.  If your robot does not have a MicroSD card, find a mentor and ask for help.
+The setup steps to needed to get your robot ready to go may have already taken care of by the the Bolton Robotics mentors. If you are using your own laptop or work on a computer and Lego Spike Robot that does not have Pybricks, you will need to install it.
 
-# Official Lego Eductation Instructions
-Lego Educatuion and Pybricks has great step-by-step documentation here:
+# Official Pybricks Installation Instructions:
+To run Pybricks on your Spike robot, you’ll need to install the Pybricks firmware using the Pybricks IDE. Just connect your robot to your computer via Bluetooth, open the IDE in your browser, and follow the steps to install the firmware. Full instructions can be found here:
+[https://pybricks.com/learn/getting-started/install-pybricks/](https://pybricks.com/learn/getting-started/install-pybricks/)
 
-[https://pybricks.com/ev3-micropython/startinstall.html](https://pybricks.com/ev3-micropython/startinstall.html)
-
-These instructions cover
-- Installing Microsoft Visual Studio Code
-- Adding the Lego Mindstorm EV3 Micropython Extension
-- Installing the MicroPython tools on your microSD card
+The important steps are to:
+- Install Pybricks on your Lego Spike Robot.  Pybricks will not work unless you do this!
+- Use code.pybricks.com or the pybricks app to program and connect to your robot
 
 After completing the steps in the instructions above, continue to the next module which will cover the Bolton Robotics Base Code.
 
