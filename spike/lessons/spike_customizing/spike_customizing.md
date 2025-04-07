@@ -145,7 +145,7 @@ In order for the robot to determine how much to spin the motors to turn it also 
 
 <p  align="center"><img src="../../../images/axle_track.jpg" width=300></P>
 
-After making the measurements, set the wheel diameter and axle_track for your robot design in the bolton_robotics_robot.py file by changing the following lines in robot.py to match your measurements:
+After making the measurements, set the wheel diameter and axle_track for your robot design in the robot.py file by changing the following lines in robot.py to match your measurements:
 
 ```python
 TIRE_DIAMETER = 63  # mm
