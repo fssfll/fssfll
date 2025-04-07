@@ -5,30 +5,13 @@ subtitle:
 
 # What is the Bolton Robotics Base Code?
 
-Bolton Robotics Base Code is a set of starter Python files that help students quickly set up and start solving FIRST Lego League Challenges. It provides a simple framework so students can focus more on programming and problem-solving. Here’s what makes it great:
-
-__Foundation for Success:__
-
-The base code includes a ready-made robot class that sets up important details like motor ports, sensor connections, and wheel size. This gives students a solid and organized starting point for their robot projects.
-
-__Ease of Configuration:__
-
-Since the base code already includes key hardware settings, students can configure their robots quickly without worrying about complicated details. This means they can spend more time programming and less time setting things up.
-
-__Program Selection Interface:__
-
-One of the best features is the program select menu. This lets students easily pick from up to 9 different programs they’ve written for different challenges. It makes switching between programs simple and convenient.
-
-__Efficient Problem Solving:__
-
-The goal of the base code is to speed up the coding process so students can focus on solving problems. With a pre-defined robot class and an easy-to-use menu, students can quickly test ideas, experiment, and improve their solutions—key skills for success in First Lego League!
-
+The Bolton Robotics Base Code is a set of starter Python files designed to help students quickly get their Spike robot ready for FIRST Lego League challenges. It includes a pre-made robot class that handles things like motor ports, sensor setup, and wheel size, so you don’t have to start from scratch. This saves time and lets you focus more on solving problems and writing code. The base code also has a simple menu that lets you choose from up to nine programs, making it easy to switch between different tasks during practice or competition. Overall, it’s a helpful tool for getting organized, experimenting with ideas, and building smarter solutions faster.
 
 # How Do I Get the Base Robot Code?
 - Visit the GitHub repository where the Bolton Robotics Base Code is hosted: [Bolton Robotics Base Code Repository](https://github.com/fssfll/spike_basecode).
 - On the GitHub page, click on the "Code" button and then select "Download ZIP" to download the entire project as a ZIP file.
 - Extract the downloaded ZIP file to a location on your computer and extract the contents.
-- Open Pybricks IDE, click the "Import a file" icon, navigate to the folder where you extracted the Base Code, and add all the python files.
+- Open Pybricks IDE or go to [code.pybricks.com](code.pybricks.com), click the "Import a file" icon, navigate to the folder where you extracted the Base Code, and add all the python files.
 
 # What do the files I downloaded do?
 
