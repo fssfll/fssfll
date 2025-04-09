@@ -2,9 +2,10 @@
 title: Pybricks IDE and Bolton Robotics Base Code
 subtitle:
 ---
+# Lesson Video
+<iframe width="560" height="315" src="https://youtu.be/V_ngygF9Qgw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # What is the Bolton Robotics Base Code?
-
 The Bolton Robotics Base Code is a set of starter Python files designed to help students quickly get their Spike robot ready for FIRST Lego League challenges. It includes a pre-made robot class that handles things like motor ports, sensor setup, and wheel size, so you don’t have to start from scratch. This saves time and lets you focus more on solving problems and writing code. The base code also has a simple menu that lets you choose from up to nine programs, making it easy to switch between different tasks during practice or competition. Overall, it’s a helpful tool for getting organized, experimenting with ideas, and building smarter solutions faster.
 
 # How Do I Get the Base Robot Code?
