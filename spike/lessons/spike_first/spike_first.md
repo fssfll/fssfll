@@ -3,7 +3,7 @@ title: Create Your First Program For the Lego Spike Robot
 ---
 
 # Review Your Robot Connections
-If you have not already done so, confirm your robot port wiring, wheel diameter, and wheel track matches the configuration in bolton_robotics_robot.py
+If you have not already done so, confirm your robot port wiring, wheel diameter, and wheel track matches the configuration in robot.py
 
 If your robot doesn't match the configuration, you will likely not be able to complete this training module.  Use the [Customizing Your Robot](../../spike_customizing/spike_customizing) training module to determine how to update robot.py to match your robot.
 
