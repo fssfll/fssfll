@@ -2,6 +2,11 @@
 title: Customizing the Bolton Robotic's BaseCode
 ---
 
+# Lesson Video
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YnAgEeCDWlQ?si=-z1HTqOtx_bYyhpb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+
 <BR><BR>
 # What is a Python "class" and why use the Bolton Robotic's "robot" class?
 When programming your FLL robot with Python, a class like Bolton Robotic's "robot" class works like a blueprint or template. It’s a way to describe your robot so the code knows things like what motors and sensors it has, how big the wheels are, and how far apart they’re spaced. Once you set this up, you can use that class to create a robot in your code that’s ready to move and react. The class also includes functions (called methods) that tell the robot how to do things like follow a line, square up to a line, or drive straight using the gyro. This setup helps keep your code organized and makes it easier to program your robot to do exactly what you want.
