@@ -3,14 +3,6 @@ title: The robot doesn't work. What now?!?
 subtitle: How to debug your code
 ---
 
-## Lesson Plan:
-1. Watch the lesson plan video below
-2. Read the informaion and follow the instructions to complete the assignment.  Be sure to complete all the steps!
-3. Show or share the completed assignment with a mentor
-
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d_q8OJwLrRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
 
 ## Tools you can use to debug your code
 
@@ -36,8 +28,7 @@ robot.turn(90)
   * Print function calls can be added to your code to display messages to the console.
   * The console is where you can view the results of commands and status like the print() function.
   * In the simulator the console is located at the bottom of the screen and can be expanded by clicking on the inverted "V" (this is called a chevron)
-  * In some cases, like when using the simulator or when using Visual Studio Code these can be used to display helpful information about what your code is doing.
-  * Print statements are not displayed on the Spike Robots LEDs.  We'll cover how to do that in a different lesson.
+   * In some cases, like when using the simulator or when using Pybricks IDE these can be used to display helpful information about what your code is doing.
   * You print text with the print function by including it in quotes like this:
 ```python
 # A simple text print message
@@ -65,88 +56,6 @@ print("Speed= " + str(speed) + " mm/Second")
  print("The program continues...")
  ```
 
-## Now it is your turn!
-
-### 1. In a different browser window or browser tab start the simulator: 
-
-  * [Launch FSS FLL Simulator: Debugging](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Fspike%2Flessons%2Flesson1%2Flesson1.json)
-  * Make sure you are in Python "Pybricks Mode"
-
-### 2. Copy in the example program below and try out the already completed "Part 1"
-
-### 3. Follow the instructions in the code comments below to complete "Part 2" of the assignment
-
-```python
-#!/usr/bin/env pybricks-micropython
-
-# Import the necessary libraries
-import math
-import time
-from pybricks.parameters import *
-from pybricks.hubs import EV3Brick
-from pybricks.ev3devices import *
-from pybricks.tools import wait
-from pybricks.robotics import DriveBase
-
-# Create the sensors and motors objects
-ev3 = EV3Brick()
-
-motorB = Motor(Port.B)
-motorC = Motor(Port.C)
-left_motor = motorB
-right_motor = motorC
-
-color_sensor_in1 = ColorSensor(Port.S1)
-
-
-robot = DriveBase(left_motor, right_motor, wheel_diameter=56, axle_track=89)
-robot.settings(straight_speed=200, straight_acceleration=100, turn_rate=100, turn_acceleration=100)
-
-################################################
-# Here is where your code starts
-################################################
-
-#-----------------------------------------------------------
-#                           PART 1
-#
-# Example of using print, comments, and the wait() method
-#-----------------------------------------------------------
-# Example print message
-print("Hello World!")
-
-# Pause the program for half a second
-print("Pausing the program for 2 seconds")
-wait(2000)
-
-# Continuing the program
-print("The program resumes...")
-
-#-----------------------------------------------------------
-#                           PART 2
-#
-# Now it is your turn to add on to the program.
-# Use the robot.straight() methods to move foward,
-# then wait for 5 seconds, then move backwards to return home.
-# Use print() to display on the console what your robot is doing
-#-----------------------------------------------------------
-
-
-# Use print() to say your robot will move forward
-
-# Use robot.straight() to move forward
-
-# Use print() to say you are waiting for 5 seconds
-
-# Use wait() to pause for 5 seconds.  Try commenting out the wait() to remove the pause.
-
-# Use print() to say your robot will move backwards
-
-# Use robot.straight() to move backwards
-
-# Use print() to say mission accomplished and you've returned to base!
-
-
-```
 
 <p align="center">
 <IMG ALIGN="CENTER" SRC="https://fssfll.github.io/fssfll/images/finish.jpg">
