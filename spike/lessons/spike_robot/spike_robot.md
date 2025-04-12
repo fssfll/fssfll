@@ -16,7 +16,7 @@ In this lesson, you will be building a Spike Prime robot with a compact and prac
 <iframe src="https://platform.buildin3d.com/embed/instructions/4136-bolton-robotic-s-first-lego-league-basebot" scrolling="no" width="710" height="590" allow="fullscreen" style="border: 0px;" title="Bolton Robotic's First Lego League Basebot"></iframe>
 </P>
 
-<B>If you prefer Lego Instruction Style instructions:</B><BR>
+<B>If you prefer Lego booklet style instructions:</B><BR>
 <I>At the end of these instructions you can find a parts list.</I><BR>
 [Bolton Robotic's Basebot Assembly Instructions](https://fssfll.github.io/fssfll/spike/lessons/spike_robot/bolton_spikebot_inst.pdf)
 
