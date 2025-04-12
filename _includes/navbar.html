@@ -28,33 +28,36 @@
   <div class="collapse navbar-collapse" id="main-navbar">
     <ul class="navbar-nav ml-auto">
 
-      <!-- Dropdown for Training Modules -->
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownTraining" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Training Modules
-        </a>
-        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownTraining">
-          <a class="dropdown-item" href="{{ base_path }}lessons/beginner">Beginner</a>
-          <a class="dropdown-item" href="{{ base_path }}lessons/intermediate">Intermediate</a>
-          <a class="dropdown-item" href="{{ base_path }}lessons/advanced">Advanced</a>
-          <a class="dropdown-item" href="{{ base_path }}lessons/expert">Expert</a>
-        </div>
-      </li>
-
-      <!-- Individual Links -->
-      <li class="nav-item"><a class="nav-link" href="{{ base_path }}spring_2024/robot_game">Around Bolton Game</a></li>
-      <li class="nav-item"><a class="nav-link" href="{{ base_path }}fll_resources/fll_resources">FLL Resources</a></li>
-      <li class="nav-item"><a class="nav-link" href="https://github.com/fssfll/fll_basecode">Competition Base Code</a></li>
-      <li class="nav-item"><a class="nav-link" href="https://pybricks.com/ev3-micropython/">Pybricks Documentation</a></li>
-
-      {% if site.post_search %}
-        <li class="nav-item">
-          <a class="nav-link" id="nav-search-link" href="#" title="Search">
-            <span id="nav-search-icon" class="fa fa-search"></span>
-            <span id="nav-search-text">Search</span>
+      {% unless base_path == '/fssfll/' %}
+        <!-- Dropdown for Training Modules -->
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownTraining" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Training Modules
           </a>
+          <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownTraining">
+            <a class="dropdown-item" href="{{ base_path }}lessons/beginner">Beginner</a>
+            <a class="dropdown-item" href="{{ base_path }}lessons/intermediate">Intermediate</a>
+            <a class="dropdown-item" href="{{ base_path }}lessons/advanced">Advanced</a>
+            <a class="dropdown-item" href="{{ base_path }}lessons/expert">Expert</a>
+          </div>
         </li>
-      {%- endif -%}
+
+        <!-- Individual Links -->
+        <li class="nav-item"><a class="nav-link" href="{{ base_path }}spring_2024/robot_game">Around Bolton Game</a></li>
+        <li class="nav-item"><a class="nav-link" href="{{ base_path }}fll_resources/fll_resources">FLL Resources</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://github.com/fssfll/fll_basecode">Competition Base Code</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://pybricks.com/ev3-micropython/">Pybricks Documentation</a></li>
+
+        {% if site.post_search %}
+          <li class="nav-item">
+            <a class="nav-link" id="nav-search-link" href="#" title="Search">
+              <span id="nav-search-icon" class="fa fa-search"></span>
+              <span id="nav-search-text">Search</span>
+            </a>
+          </li>
+        {% endif %}
+      {% endunless %}
+      
     </ul>
   </div>
 
