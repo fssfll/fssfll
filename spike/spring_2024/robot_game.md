@@ -16,6 +16,6 @@ There are 8 missions to solve with scoring conditions described in the scoring t
  * You can ony interact with mission models or cargo in the launch/home quarter circle
  * The robot, all its cargo and attachments must be within the launch/home quarter circle before starting a mission
  * The robot must start from and return home to the quarter circle
- * The challenges will be completed using a provided EV3 robot basebot running MicroPython.    
- * Students will work in pairs using Microsoft Visual Studio Code to create and debug their programs and program their robot. 
+ * The challenges will be completed using a provided Lego robot basebot running MicroPython.    
+ * Students will work in pairs using Pybricks IDE to create and debug their programs and program their robot. 
  * General FLL rules apply, ask a mentor if you have questions.
