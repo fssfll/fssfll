@@ -22,7 +22,7 @@ In addition to Pybricks Python resources, we've also gatheter a collection of FI
 ## Training Modules
 A series of short training modules lessons below are divided between using a virtual robot simulator and lessons run on the Spike robot.  It is recommended to start with the Beginner training modules which all use the virtual robot and simulator.  These lessons can be completed without any additional apps or Spike hardware.
 
-The intermediate lessons focus on how to get started using Microsoft Visual Studio to program the Spike with the Bolton Robotics Base Code.  Advanced and expert modules guide students who are interested in advanced techniques like gyro navigation, color sensor calibration, using the Spike matrix LED display, and ssh connection to the Spike robot. 
+The intermediate lessons focus on how to get started using the Pybricks IDE to program the Spike with the Bolton Robotics Base Code.  Advanced and expert modules guide students who are interested in advanced techniques like gyro navigation, color sensor calibration, using the Spike matrix LED display, and ssh connection to the Spike robot. 
 
 <TABLE>
 <TR><TD><img src="https://fssfll.github.io/fssfll/images/beginner.jpg" width=100><BR><A HREF="https://fssfll.github.io/fssfll/spike/lessons/beginner/">Beginner Modules</A> </TD><TD><B>Intro to Robot Python Programming</B><BR>Using the simulator to learn about how to use Python programming on a virtual Spike robot
