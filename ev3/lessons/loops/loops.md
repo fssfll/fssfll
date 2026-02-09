@@ -21,7 +21,7 @@ subtitle: Introduction to code loops
    2. A condition that can be tested to see if it is True or False
    3. A block of code that you want to run repeatedly
  * With that in mind, let's try an example.  
- * Start the [FSS FLL Simulator](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Flessons%2Flesson1%2Flesson1.json)
+ * Start the [FSS FLL Simulator](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Fev3%2Flessons%2Flesson1%2Flesson1.json)
  * Make sure you are running in Python Pybricks Mode
  * Copy the code in in below (be careful to include it below "Where your code starts")
  * If your computer has speakers, turn up the volume to hear The Count!
