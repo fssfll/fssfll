@@ -69,7 +69,7 @@ print("Speed= " + str(speed) + " mm/Second")
 
 ### 1. In a different browser window or browser tab start the simulator: 
 
-  * [Launch FSS FLL Simulator: Debugging](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Flessons%2Flesson1%2Flesson1.json)
+  * [Launch FSS FLL Simulator: Debugging](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Fev3%2Flessons%2Flesson1%2Flesson1.json)
   * Make sure you are in Python "Pybricks Mode"
 
 ### 2. Copy in the example program below and try out the already completed "Part 1"
