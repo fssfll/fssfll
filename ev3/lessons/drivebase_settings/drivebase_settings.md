@@ -52,7 +52,7 @@ robot.straight(-300)
 
 ### 1. In a different browser window or browser tab start the simulator: 
 
- * Start the [FSS FLL Simulator: Speed Run Map](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Flessons%2Fdrivebase_settings%2Fspeed_run.json)
+ * Start the [FSS FLL Simulator: Speed Run Map](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Fev3%2Flessons%2Fdrivebase_settings%2Fspeed_run.json)
  * Make sure you are in Python "Pybricks Mode"
  * Take a look at the game map in the Simulator tab
  * This is a timed trial.  Your goal is to have your bot finish at the center of the map completely behind the black and yellow striped zone before time expires.
