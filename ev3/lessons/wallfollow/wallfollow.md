@@ -44,7 +44,7 @@ Now let's try again with a potentially better robot. The link below is the same 
 - Like before, run your program 3 times and record how many times you were able to knock over the green tower and leave the two red towers standing.
 - Hint: Now that you can wall follow, how far could the robot go?  Could it make it to the where the bowling alley narrows or maybe even much further?
 
-[Launch the Bowling Challenge - with wall following](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Fev3%2Flessons%2Fwallfollow%2Fbowling_world.json&robotJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Flessons%2Fwallfollow%2Fwallfollow_robot.json)
+[Launch the Bowling Challenge - with wall following](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Fev3%2Flessons%2Fwallfollow%2Fbowling_world.json&robotJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Fev3%2Flessons%2Fwallfollow%2Fwallfollow_robot.json)
 
 # Think About The Results
 - How many times did you solve the mission with and without the the wall following attachment?  
