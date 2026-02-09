@@ -23,7 +23,7 @@ robot.settings(straight_speed=200, straight_acceleration=100, turn_rate=100, tur
  * Not only can this can be used at the beginning of the program before robot moves, but it can be used throughout the program to change speeds.
  * Before changing the robot speed in your program you must use the **stop()** method.
  * Let's try an example!
- * Start the [FSS FLL Simulator: Speed Run Map](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Flessons%2Fdrivebase_settings%2Fspeed_run.json)
+ * Start the [FSS FLL Simulator: Speed Run Map](https://fssfll.github.io/gears/public/index.html?worldJSON=https%3A%2F%2Ffssfll.github.io%2Ffssfll%2Fev3%2Flessons%2Fdrivebase_settings%2Fspeed_run.json)
  * Make sure you are running in Python Pybricks Mode
  * Copy the code in in below (be careful to include it below "Where your code starts")
  * Goto the simulator tab and hit the play triangle
