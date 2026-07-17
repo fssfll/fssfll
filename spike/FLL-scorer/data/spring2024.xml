@@ -26,27 +26,13 @@
     </Element>
 
     <Element>
-        <Heading>M02 Stacked Barrel Storage</Heading>
-        <Question>Remove stacked barrels from the dispensor (5 pts each)</Question>
-        <Tag>m02a</Tag>
-        <Option><Default><Label>None</Label><Value>0</Value></Default></Option>
-        <Option><Label>1</Label><Value>1</Value></Option>
-        <Option><Label>2</Label><Value>2</Value></Option>
-        <Option><Label>3</Label><Value>3</Value></Option>
+        <Heading>M02 Swing! Swing!</Heading>
+        <Question>Release the swing so it is swinging freely (20 pts)</Question>
+        <Tag>m02</Tag>
+        <Option><Default><Label>No</Label><Value>0</Value></Default></Option>
+        <Option><Label>Yes</Label><Value>1</Value></Option>
         <Score><![CDATA[
-            score += this.answers["m02a"] * 5;
-        ]]></Score>
-    </Element>
-    
-    <Element>
-        <Heading>M02 Stacked Barrel Storage</Heading>
-        <Question>Barrel on Post (20 pts per post)</Question>
-        <Tag>m02b</Tag>
-        <Option><Default><Label>None</Label><Value>0</Value></Default></Option>
-        <Option><Label>1</Label><Value>1</Value></Option>
-        <Option><Label>2</Label><Value>2</Value></Option>
-        <Score><![CDATA[
-            score += this.answers["m02b"] * 20;
+            score += this.answers["m02"] * 20;
         ]]></Score>
     </Element>
 
@@ -85,7 +71,7 @@
 
     <Element>
         <Heading>M05 Truck</Heading>
-        <Question>Truck parked inside the dirt driveways (20 pts)</Question>
+        <Question>Truck must be completely inside the dirt driveway (20 pts)</Question>
         <Tag>m05a</Tag>
         <Option><Default><Label>No</Label><Value>0</Value></Default></Option>
         <Option><Label>Yes</Label><Value>1</Value></Option>
@@ -140,7 +126,7 @@
     
     <Element>
         <Heading>M07 Barrels Brought To Cider Circle</Heading>
-        <Question>Architectural block at least partially in the Yellow Cider Circle (5 pts each) Barrels may be touching equipment.  Barrels do not need to be touching the mat.</Question>
+        <Question>Barrels at least partially in the Yellow Cider Circle (5 pts each) Barrels may be touching equipment.  Barrels do not need to be touching the mat.</Question>
         <Tag>m07a</Tag>
         <Option><Default><Label>None</Label><Value>0</Value></Default></Option>
         <Option><Label>1</Label><Value>1</Value></Option>
@@ -160,7 +146,7 @@
 
     <Element>
         <Heading>M08 Barrels Brought To Stone Circle</Heading>
-        <Question>Architectural block at least partially in the Yellow Old Stone Circle (10 pts each).  Barrels may be touching equipment.  Barrels do not need to be touching the mat.</Question>
+        <Question>Barrels at least partially in the Yellow Old Stone Circle (10 pts each).  Barrels may be touching equipment.  Barrels do not need to be touching the mat.</Question>
         <Tag>m07b</Tag>
         <Option><Default><Label>None</Label><Value>0</Value></Default></Option>
         <Option><Label>1</Label><Value>1</Value></Option>
