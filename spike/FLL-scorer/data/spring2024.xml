@@ -179,8 +179,8 @@
     </Element>
 
     <Element>
-        <Heading>M08 Methods Used BONUS #1!  To score points for this mission, the method used must be a meaningful part of the scoring solution.  For example, squaring up on a mission model or wall to line up the robot before scoring points would be meaningful but squaring up on a mission model or wall after all scoring has been completed would not be.  It is left to the discretion of the referee to determine if the spirit of this rule has been met. Students must point out to the referee when the robot uses one of the methods!</Heading>
-        <Question>Meaningful use of line following to sucessfully complete one or more missions.  (10 pts)</Question>
+        <Heading>M08 Methods Used BONUS #1!  To score these bonus points, square up on a wall in a meaningful way to achieve the mission.</Heading>
+        <Question>Meaningful use of squaring up on a wall to successfully complete one or more missions.  (10 pts)</Question>
         <Tag>m08a</Tag>
         <Option><Default><Label>No</Label><Value>0</Value></Default></Option>
         <Option><Label>Yes</Label><Value>1</Value></Option>
@@ -190,8 +190,8 @@
     </Element>
     
     <Element>
-        <Heading>M08 Methods Used BONUS #2!  To score points for this mission, the method used must be a meaningful part of the scoring solution.  For example, squaring up on a mission model or wall to line up the robot before scoring points would be meaningful but squaring up on a mission model or wall after all scoring has been completed would not be.  It is left to the discretion of the referee to determine if the spirit of this rule has been met. Students must point out to the referee when the robot uses one of the methods!</Heading>
-        <Question>Meaningful use of squaring up on a wall or mission model to successfully complete one or more missions.  (10 pts)</Question>
+        <Heading>M08 Methods Used BONUS #2!  To score these bonus points, wall follow along a wall in a meaningful way to achieve the mission.</Heading>
+        <Question>Meaningful use of wall following to successfully complete one or more missions.  (10 pts)</Question>
         <Tag>m08b</Tag>
         <Option><Default><Label>No</Label><Value>0</Value></Default></Option>
         <Option><Label>Yes</Label><Value>1</Value></Option>
@@ -201,8 +201,8 @@
     </Element>
     
     <Element>
-        <Heading>M08 Methods Used BONUS #3!  To score points for this mission, the method used must be a meaningful part of the scoring solution.  For example, squaring up on a mission model or wall to line up the robot before scoring points would be meaningful but squaring up on a mission model or wall after all scoring has been completed would not be.  It is left to the discretion of the referee to determine if the spirit of this rule has been met. Students must point out to the referee when the robot uses one of the methods!</Heading>
-        <Question>Meaningful use of wall following to successfully complete one or more missions.  (10 pts)</Question>
+        <Heading>M08 Methods Used BONUS #3!  To score these bonus points, square up at a mission model in a meaningful way to achieve the mission.</Heading>
+        <Question>Meaningful use of squaring up on a mission model to successfully complete one or more missions.  (10 pts)</Question>
         <Tag>m08c</Tag>
         <Option><Default><Label>No</Label><Value>0</Value></Default></Option>
         <Option><Label>Yes</Label><Value>1</Value></Option>
